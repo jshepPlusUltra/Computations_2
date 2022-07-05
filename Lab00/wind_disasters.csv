@@ -1,0 +1,2708 @@
+# wind_disasters.csv,,,,,,,,,,
+# file format as follows,,,,,,,,,,
+# type,event_name ,num_killed ,damage ,start_year ,start_month ,start_day ,iso ,country_name ,region ,continent 
+Storm , ,10,0,1993,5,14,AFG ,Afghanistan ,South Asia ,Asia 
+Winter , ,260,0,2005,1,0,AFG ,Afghanistan ,South Asia ,Asia 
+Winter , ,6,0,2002,1,8,ALB ,Albania ,Rest of Europe ,Europe 
+Winter , ,2,0,2005,1,23,ALB ,Albania ,Rest of Europe ,Europe 
+Storm , ,0,0,1988,9,0,DZA ,Algeria ,North Africa ,Africa 
+Storm , ,4,0,2000,12,29,DZA ,Algeria ,North Africa ,Africa 
+Winter , ,13,0,2003,1,31,DZA ,Algeria ,North Africa ,Africa 
+Winter , ,10,0,2005,2,0,DZA ,Algeria ,North Africa ,Africa 
+Cyclone , ,90,0,1966,1,0,ASM ,American Samoa ,Oceania ,Oceania 
+Cyclone ,Gina ,0,5000,1989,1,10,ASM ,American Samoa ,Oceania ,Oceania 
+Cyclone ,Heta ,0,150000,2004,1,5,ASM ,American Samoa ,Oceania ,Oceania 
+Cyclone ,Olaf ,0,0,2005,2,16,ASM ,American Samoa ,Oceania ,Oceania 
+Hurricane ,Alice ,0,0,1955,1,2,AIA ,Anguilla ,Caribbean ,Americas 
+Hurricane ,Donna ,5,35000,1960,9,4,AIA ,Anguilla ,Caribbean ,Americas 
+Hurricane ,Frederic ,0,0,1979,9,3,AIA ,Anguilla ,Caribbean ,Americas 
+Tornado , ,0,160,1983,4,18,AIA ,Anguilla ,Caribbean ,Americas 
+Hurricane ,Klaus ,0,2115,1984,11,7,AIA ,Anguilla ,Caribbean ,Americas 
+Hurricane ,Lenny ,0,50,1999,11,17,AIA ,Anguilla ,Caribbean ,Americas 
+Hurricane ,Dog ,2,1000,1950,9,1,ATG ,Antigua and Barbuda ,Caribbean ,Americas 
+Hurricane ,Donna ,2,0,1960,9,4,ATG ,Antigua and Barbuda ,Caribbean ,Americas 
+Hurricane ,Inez ,0,0,1966,9,26,ATG ,Antigua and Barbuda ,Caribbean ,Americas 
+Hurricane ,Hugo ,2,80000,1989,9,17,ATG ,Antigua and Barbuda ,Caribbean ,Americas 
+Hurricane ,Gustav ,0,0,1990,8,27,ATG ,Antigua and Barbuda ,Caribbean ,Americas 
+Hurricane ,Luis ,2,300000,1995,9,5,ATG ,Antigua and Barbuda ,Caribbean ,Americas 
+Hurricane ,Georges ,2,60000,1998,9,20,ATG ,Antigua and Barbuda ,Caribbean ,Americas 
+Hurricane ,Jose ,1,0,1999,10,20,ATG ,Antigua and Barbuda ,Caribbean ,Americas 
+Hurricane ,Lenny ,0,0,1999,11,17,ATG ,Antigua and Barbuda ,Caribbean ,Americas 
+Tornado , ,60,0,1973,1,1,ARG ,Argentina ,South America ,Americas 
+Storm , ,100,0,1974,2,0,ARG ,Argentina ,South America ,Americas 
+Storm , ,20,0,1975,3,13,ARG ,Argentina ,South America ,Americas 
+Storm , ,5,0,1978,10,30,ARG ,Argentina ,South America ,Americas 
+Tornado , ,1,0,1986,12,0,ARG ,Argentina ,South America ,Americas 
+Storm , ,1,10000,1987,1,0,ARG ,Argentina ,South America ,Americas 
+Storm , ,15,50000,1993,2,6,ARG ,Argentina ,South America ,Americas 
+Storm , ,6,0,1995,4,10,ARG ,Argentina ,South America ,Americas 
+Storm , ,0,0,1998,2,7,ARG ,Argentina ,South America ,Americas 
+Winter , ,0,0,2000,9,0,ARG ,Argentina ,South America ,Americas 
+Storm , ,1,0,2000,12,27,ARG ,Argentina ,South America ,Americas 
+Storm , ,4,0,2001,1,10,ARG ,Argentina ,South America ,Americas 
+Storm , ,16,15000,2001,4,10,ARG ,Argentina ,South America ,Americas 
+Storm , ,3,0,2002,10,22,ARG ,Argentina ,South America ,Americas 
+Storm , ,12,0,2003,11,11,ARG ,Argentina ,South America ,Americas 
+Storm , ,11,0,2005,1,30,ARG ,Argentina ,South America ,Americas 
+Cyclone ,Ada ,13,72475,1970,1,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Althea ,3,119219,1971,12,24,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Tracy ,65,800000,1974,12,25,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Wanda ,11,296717,1974,1,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Joan ,0,63861,1975,12,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,13037,1976,1,10,AUS ,Australia ,Oceania ,Oceania 
+Tornado , ,0,7279,1976,11,2,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,38024,1976,11,10,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,David ,0,4237,1976,1,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Beth ,0,8257,1976,2,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Ted ,0,36177,1976,12,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,38680,1977,1,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,10269,1977,2,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Alby ,5,1000000,1978,4,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,3797,1978,10,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,35090,1978,2,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,11620,1978,3,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,16107,1978,6,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Hazel ,15,31286,1979,3,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,18683,1979,11,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Amy ,0,6966,1980,1,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Dean ,0,40026,1980,2,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Enid ,0,4605,1980,2,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone , ,0,13932,1980,12,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,29399,1980,12,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,7895,1981,11,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Dominic ,1,6864,1982,4,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,12454,1982,11,15,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,11767,1982,12,15,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,1984,1983,1,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,2255,1983,2,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,5773,1983,9,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,27,122000,1985,1,18,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,7255,1985,9,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Winifred ,3,70000,1986,2,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,51000,1986,10,3,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,5778,1986,1,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,4,68055,1986,8,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,6806,1986,12,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Charlie ,1,20417,1988,3,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Aivu ,2,94300,1989,4,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Orson ,2,13611,1989,4,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,275000,1990,3,18,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Joy ,0,155600,1990,12,25,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,0,1991,1,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,1560,1991,11,8,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,103100,1992,2,12,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,2,274900,1992,12,18,AUS ,Australia ,Oceania ,Oceania 
+Tornado , ,0,0,1993,9,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,0,1993,12,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,2,77600,1994,5,25,AUS ,Australia ,Oceania ,Oceania 
+Storm ,Hurricane ,22,0,1994,1,19,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,1,0,1994,11,7,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,2,0,1994,11,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Bobby ,7,98000,1995,2,0,AUS ,Australia ,Oceania ,Oceania 
+Tornado , ,0,18700,1995,4,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,1,84000,1995,12,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,28000,1995,12,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,6,47000,1996,8,31,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,9333,1996,2,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,39200,1996,2,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Olivia ,0,46700,1996,4,0,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,317300,1996,9,29,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,1,140000,1996,12,0,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Rona ,5,12547,1999,2,11,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Vance ,1,200000,1999,3,19,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,1,640000,1999,4,14,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Steve ,1,90000,2000,2,27,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Tessi ,0,60000,2000,4,3,AUS ,Australia ,Oceania ,Oceania 
+Cyclone ,Sam ,0,0,2000,12,7,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,1,6600,2001,1,16,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,1,0,2001,1,18,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,0,2001,4,26,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,0,2002,2,16,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,0,2002,9,19,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,0,2002,12,5,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,1,0,2003,1,9,AUS ,Australia ,Oceania ,Oceania 
+Tornado , ,0,0,2003,5,18,AUS ,Australia ,Oceania ,Oceania 
+Storm ,Hailstorm ,0,0,2003,10,24,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,93000,2003,12,3,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,0,2003,12,9,AUS ,Australia ,Oceania ,Oceania 
+Winter , ,0,0,2004,7,17,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,2,10000,2004,11,7,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,1,50000,2004,1,24,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,0,27000,2005,1,21,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,3,7000,2005,6,30,AUS ,Australia ,Oceania ,Oceania 
+Storm , ,1,15000,2005,12,2,AUS ,Australia ,Oceania ,Oceania 
+Winter , ,0,0,1976,1,0,AUT ,Austria ,European Union ,Europe 
+Winter , ,0,0,1981,7,19,AUT ,Austria ,European Union ,Europe 
+Storm , ,12,200000,1984,7,12,AUT ,Austria ,European Union ,Europe 
+Storm , ,0,0,1990,5,22,AUT ,Austria ,European Union ,Europe 
+Storm , ,0,37700,1990,7,1,AUT ,Austria ,European Union ,Europe 
+Winter ,Daria ,3,238700,1990,1,0,AUT ,Austria ,European Union ,Europe 
+Storm , ,0,28000,1991,7,13,AUT ,Austria ,European Union ,Europe 
+Storm , ,0,35210,2000,6,7,AUT ,Austria ,European Union ,Europe 
+Storm , ,2,0,2002,10,27,AUT ,Austria ,European Union ,Europe 
+Storm , ,1,0,2002,11,14,AUT ,Austria ,European Union ,Europe 
+Hurricane , ,27,0,1946,10,0,AZO ,Azores ,Rest of Europe ,Europe 
+Storm , ,0,66000,1996,12,25,AZO ,Azores ,Rest of Europe ,Europe 
+Hurricane , ,0,0,1926,7,26,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane , ,0,0,1929,9,26,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane , ,14,0,1935,9,29,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane , ,22,0,1945,9,14,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Flora ,0,1500,1963,10,8,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Betsy ,0,700,1965,9,9,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Inez ,5,15500,1966,10,3,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Inez ,0,0,1966,9,0,BHS ,Bahamas ,Caribbean ,Americas 
+Tropical storm ,Arthur ,0,0,1990,7,27,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Andrew ,4,250000,1992,8,23,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Floyd ,1,0,1999,9,15,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Michelle ,0,250000,2001,11,9,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Frances ,2,0,2004,9,2,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Jeanne ,0,0,2004,9,25,BHS ,Bahamas ,Caribbean ,Americas 
+Hurricane ,Wilma ,0,0,2005,10,19,BHS ,Bahamas ,Caribbean ,Americas 
+Cyclone , ,0,0,1904,11,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,172,0,1909,10,15,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,0,0,1909,12,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,0,0,1911,4,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,0,0,1919,9,23,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,0,0,1922,4,19,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,6,0,1923,5,7,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,0,0,1926,5,19,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,0,0,1937,10,11,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,5000,0,1941,5,21,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,61000,0,1942,10,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,500,0,1947,10,21,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,200,0,1951,5,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,0,0,1958,5,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,500,0,1958,10,20,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,3000,0,1960,10,9,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,5149,0,1960,10,30,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,11000,11900,1961,5,9,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,0,0,1961,5,30,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,266,0,1961,3,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,11500,46500,1963,5,28,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,79,0,1963,10,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,300,250,1964,4,12,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,36000,57700,1965,5,11,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,12047,0,1965,6,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,874,0,1965,12,15,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,850,22400,1966,10,1,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,50,0,1967,5,2,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,41,0,1967,10,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,118,1500,1968,4,11,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,849,8329,1969,4,14,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,17,0,1970,4,13,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,300,0,1970,10,23,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,300000,86400,1970,11,12,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,163,0,1971,5,8,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,200,0,1972,4,2,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,200,0,1973,4,12,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,1000,0,1973,12,9,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,700,0,1973,4,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,2500,0,1974,8,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,0,0,1974,11,28,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,300,0,1974,3,0,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,46,0,1976,4,10,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,1,201,1976,5,9,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,600,50000,1977,4,1,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,13,0,1977,4,24,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,21,0,1977,10,6,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,1000,0,1978,4,9,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,30,0,1978,5,5,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,3,0,1979,5,2,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,50,0,1979,8,17,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,11,0,1980,4,0,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,70,0,1981,4,15,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,1000,0,1981,12,11,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,15,0,1981,3,6,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,6,0,1983,3,21,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,12,0,1983,4,26,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,600,0,1983,10,15,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,67,0,1983,11,13,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,50,0,1985,3,28,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,10000,0,1985,5,25,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,71,0,1985,10,16,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,100,0,1986,4,4,BGD ,Bangladesh ,South Asia ,Asia 
+Tropical storm , ,40,0,1986,9,26,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,25,0,1986,11,9,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,19,0,1986,3,0,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,12,0,1987,6,4,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,28,0,1988,5,23,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,5,0,1988,6,13,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,31,0,1988,10,19,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,1000,0,1988,11,29,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,800,16200,1989,4,26,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,15,0,1989,5,26,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,19,0,1990,5,2,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,54,0,1990,4,22,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,250,0,1990,12,21,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone ,Ofa ,370,0,1990,10,8,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone ,Gorky ,138866,1780000,1991,4,29,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,121,0,1991,5,7,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,7,0,1992,1,31,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,16,0,1992,4,22,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,31,0,1993,1,12,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,14,0,1993,5,13,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,8,0,1993,2,19,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,300,0,1993,3,27,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,9,0,1993,5,7,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,25,0,1993,5,17,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,50,0,1993,1,9,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,15,0,1993,5,9,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,130,125000,1994,5,2,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,40,2500,1994,3,28,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,20,0,1994,4,19,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,15,0,1994,5,18,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,69,0,1995,4,12,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,6,0,1995,4,12,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,525,800000,1995,5,15,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,172,0,1995,11,25,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,525,0,1996,5,12,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,60,0,1996,7,27,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,17,0,1996,4,23,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,24,0,1996,10,29,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone ,One Bravo (01B) ,111,0,1997,5,18,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone ,Two B ,188,0,1997,9,27,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,15,0,1997,10,12,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,11,0,1997,3,23,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,100,0,1997,8,27,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,14,0,1998,4,23,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone ,01B ,19,0,1998,5,20,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone ,07B ,200,0,1998,11,25,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,28,0,1998,3,23,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,60,0,1998,7,3,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,7,0,1999,4,7,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,2,0,1999,3,26,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,3,0,1999,5,7,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone ,05B ,0,0,1999,10,25,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,66,0,1999,4,10,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,0,0,2000,3,5,BGD ,Bangladesh ,South Asia ,Asia 
+Tropical storm , ,20,0,2000,4,21,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,0,0,2000,4,11,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,36,0,2000,5,27,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,28,0,2000,5,23,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,0,0,2000,6,25,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,15,0,2000,10,28,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,12,0,2001,5,11,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,193,0,2001,4,1,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,21,0,2001,4,28,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,12,0,2001,10,5,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,32,0,2002,3,25,BGD ,Bangladesh ,South Asia ,Asia 
+Tropical storm , ,31,0,2002,4,22,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,10,0,2002,7,14,BGD ,Bangladesh ,South Asia ,Asia 
+Cyclone , ,49,0,2002,11,14,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,9,0,2003,4,16,BGD ,Bangladesh ,South Asia ,Asia 
+Tropical storm , ,23,0,2003,5,4,BGD ,Bangladesh ,South Asia ,Asia 
+Tropical storm , ,28,0,2003,12,20,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,76,0,2004,4,14,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,153,0,2004,6,12,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,10,0,2004,5,13,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,0,0,2004,7,17,BGD ,Bangladesh ,South Asia ,Asia 
+Tornado , ,79,0,2005,3,20,BGD ,Bangladesh ,South Asia ,Asia 
+Tropical storm , ,11,0,2005,3,31,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,10,0,2005,5,21,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,2,0,2005,5,14,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,11,0,2005,5,6,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,35,0,2005,6,30,BGD ,Bangladesh ,South Asia ,Asia 
+Storm , ,16,0,2005,9,20,BGD ,Bangladesh ,South Asia ,Asia 
+Hurricane ,Janet ,57,0,1955,9,22,BRB ,Barbados ,Caribbean ,Americas 
+Hurricane ,Allen ,0,1500,1980,7,31,BRB ,Barbados ,Caribbean ,Americas 
+Hurricane ,Emily ,0,100000,1987,0,0,BRB ,Barbados ,Caribbean ,Americas 
+Hurricane ,Marylin ,0,0,1995,9,18,BRB ,Barbados ,Caribbean ,Americas 
+Hurricane ,Lili ,0,0,2002,9,24,BRB ,Barbados ,Caribbean ,Americas 
+Hurricane ,Ivan ,1,0,2004,9,8,BRB ,Barbados ,Caribbean ,Americas 
+Hurricane , ,5,150000,1997,6,23,BLR ,Belarus ,Russian Federation ,Europe 
+Storm , ,60,0,1930,12,2,BEL ,Belgium ,European Union ,Europe 
+Tornado , ,0,0,1966,6,17,BEL ,Belgium ,European Union ,Europe 
+Tornado , ,0,0,1967,6,25,BEL ,Belgium ,European Union ,Europe 
+Storm , ,0,0,1972,11,0,BEL ,Belgium ,European Union ,Europe 
+Winter , ,0,0,1976,1,2,BEL ,Belgium ,European Union ,Europe 
+Tornado , ,0,0,1982,9,20,BEL ,Belgium ,European Union ,Europe 
+Storm , ,0,0,1984,11,21,BEL ,Belgium ,European Union ,Europe 
+Storm , ,0,0,1985,8,0,BEL ,Belgium ,European Union ,Europe 
+Winter ,Daria ,15,1038345,1990,1,0,BEL ,Belgium ,European Union ,Europe 
+Tornado , ,0,486,1999,8,14,BEL ,Belgium ,European Union ,Europe 
+Storm , ,1,0,2002,10,26,BEL ,Belgium ,European Union ,Europe 
+Hurricane , ,1500,7500,1931,9,10,BLZ ,Belize ,Central America ,Americas 
+Hurricane ,Janet ,16,5000,1955,9,28,BLZ ,Belize ,Central America ,Americas 
+Hurricane ,Hattie ,275,60000,1961,10,30,BLZ ,Belize ,Central America ,Americas 
+Hurricane ,Carmen & Fifi ,0,4000,1974,9,2,BLZ ,Belize ,Central America ,Americas 
+Hurricane ,Greta ,5,6000,1978,9,18,BLZ ,Belize ,Central America ,Americas 
+Hurricane ,Mitch ,0,0,1998,10,25,BLZ ,Belize ,Central America ,Americas 
+Hurricane ,Keith ,14,277460,2000,9,30,BLZ ,Belize ,Central America ,Americas 
+Hurricane ,Iris ,30,50080,2001,10,8,BLZ ,Belize ,Central America ,Americas 
+Tropical storm ,Chantal ,0,0,2001,8,21,BLZ ,Belize ,Central America ,Americas 
+Hurricane ,Wilma ,0,0,2005,10,21,BLZ ,Belize ,Central America ,Americas 
+Storm , ,0,0,2000,10,9,BEN ,Benin ,West Africa ,Africa 
+Hurricane , ,0,0,1948,10,12,BMU ,Bermuda ,North America ,Americas 
+Storm , ,0,2000,1985,1,0,BMU ,Bermuda ,North America ,Americas 
+Tornado , ,0,1500,1986,1,0,BMU ,Bermuda ,North America ,Americas 
+Hurricane ,Emily ,0,50000,1987,9,25,BMU ,Bermuda ,North America ,Americas 
+Hurricane ,Dean ,0,0,1989,8,8,BMU ,Bermuda ,North America ,Americas 
+Hurricane ,Fabian ,4,300000,2003,9,5,BMU ,Bermuda ,North America ,Americas 
+Cyclone , ,17,0,1994,5,0,BTN ,Bhutan ,South Asia ,Asia 
+Winter , ,20,0,2002,6,0,BOL ,Bolivia ,South America ,Americas 
+Storm , ,0,0,1999,12,16,BIH ,Bosnia-Hercegovenia ,Rest of Europe ,Europe 
+Winter , ,4,0,2005,2,0,BIH ,Bosnia-Hercegovenia ,Rest of Europe ,Europe 
+Storm , ,100,0,1949,5,0,BRA ,Brazil ,South America ,Americas 
+Storm , ,59,0,1959,8,0,BRA ,Brazil ,South America ,Americas 
+Winter , ,36,0,1966,1,0,BRA ,Brazil ,South America ,Americas 
+Storm , ,10,0,1977,6,17,BRA ,Brazil ,South America ,Americas 
+Tornado , ,15,0,1980,6,25,BRA ,Brazil ,South America ,Americas 
+Storm , ,33,0,1982,6,0,BRA ,Brazil ,South America ,Americas 
+Tornado , ,10,0,1984,10,9,BRA ,Brazil ,South America ,Americas 
+Storm , ,22,0,1985,9,30,BRA ,Brazil ,South America ,Americas 
+Storm , ,36,0,1989,7,29,BRA ,Brazil ,South America ,Americas 
+Tornado , ,0,21000,1994,5,15,BRA ,Brazil ,South America ,Americas 
+Tornado , ,0,70000,1994,5,15,BRA ,Brazil ,South America ,Americas 
+Storm , ,3,0,1997,6,14,BRA ,Brazil ,South America ,Americas 
+Storm , ,13,0,2001,9,29,BRA ,Brazil ,South America ,Americas 
+Hurricane ,Catarina ,4,350000,2004,3,27,BRA ,Brazil ,South America ,Americas 
+Tornado , ,2,0,2005,1,3,BRA ,Brazil ,South America ,Americas 
+Winter , ,0,0,1981,11,10,BGR ,Bulgaria ,Rest of Europe ,Europe 
+Winter , ,0,0,1993,3,8,BGR ,Bulgaria ,Rest of Europe ,Europe 
+Tornado , ,0,0,1999,5,16,BGR ,Bulgaria ,Rest of Europe ,Europe 
+Winter , ,2,0,2001,12,24,BGR ,Bulgaria ,Rest of Europe ,Europe 
+Winter , ,0,0,2005,1,0,BGR ,Bulgaria ,Rest of Europe ,Europe 
+Storm , ,0,0,1999,3,0,BDI ,Burundi ,East Africa ,Africa 
+Storm , ,0,0,2004,1,4,BDI ,Burundi ,East Africa ,Africa 
+Storm , ,0,0,2004,2,20,BDI ,Burundi ,East Africa ,Africa 
+Tornado , ,28,5000,1912,6,30,CAN ,Canada ,North America ,Americas 
+Storm , ,17,500,1946,6,17,CAN ,Canada ,North America ,Americas 
+Tornado , ,0,0,1950,11,0,CAN ,Canada ,North America ,Americas 
+Hurricane ,Hazel ,83,100000,1954,10,5,CAN ,Canada ,North America ,Americas 
+Winter , ,6,0,1959,2,16,CAN ,Canada ,North America ,Americas 
+Storm , ,33,0,1962,10,12,CAN ,Canada ,North America ,Americas 
+Winter , ,0,0,1966,3,4,CAN ,Canada ,North America ,Americas 
+Storm , ,10,0,1970,8,20,CAN ,Canada ,North America ,Americas 
+Winter , ,0,0,1971,3,4,CAN ,Canada ,North America ,Americas 
+Storm , ,14,0,1975,3,0,CAN ,Canada ,North America ,Americas 
+Storm , ,0,2500,1975,7,25,CAN ,Canada ,North America ,Americas 
+Winter , ,0,0,1977,1,28,CAN ,Canada ,North America ,Americas 
+Storm , ,0,79000,1981,7,28,CAN ,Canada ,North America ,Americas 
+Storm , ,12,117000,1985,5,31,CAN ,Canada ,North America ,Americas 
+Storm , ,0,0,1986,5,14,CAN ,Canada ,North America ,Americas 
+Tornado , ,26,330000,1987,7,31,CAN ,Canada ,North America ,Americas 
+Hurricane ,Hugo ,0,0,1989,9,22,CAN ,Canada , , 
+Storm , ,0,500000,1991,9,7,CAN ,Canada ,North America ,Americas 
+Tornado , ,0,0,1994,8,5,CAN ,Canada ,North America ,Americas 
+Storm , ,0,3000,1994,8,1,CAN ,Canada ,North America ,Americas 
+Hurricane ,Luis ,1,2000,1995,9,11,CAN ,Canada ,North America ,Americas 
+Winter , ,28,1500000,1998,1,4,CAN ,Canada ,North America ,Americas 
+Winter , ,0,0,1999,1,1,CAN ,Canada ,North America ,Americas 
+Tornado , ,0,0,1999,7,6,CAN ,Canada ,North America ,Americas 
+Tornado , ,11,13000,2000,7,14,CAN ,Canada ,North America ,Americas 
+Storm , ,11,0,2001,2,10,CAN ,Canada ,North America ,Americas 
+Hurricane ,Isabel ,0,0,2003,9,18,CAN ,Canada ,North America ,Americas 
+Hurricane ,Juan ,2,110000,2003,9,28,CAN ,Canada ,South Asia ,Asia 
+Winter , ,0,0,2004,1,0,CAN ,Canada ,North America ,Americas 
+Winter , ,0,0,2004,2,19,CAN ,Canada ,North America ,Americas 
+Storm , ,0,0,2005,9,26,CAN ,Canada ,North America ,Americas 
+Storm , ,26,0,1957,1,0,SPI ,Canary Is ,North Africa ,Africa 
+Storm , ,0,415000,1999,1,8,SPI ,Canary Is ,North Africa ,Africa 
+Tropical storm , ,19,0,2005,11,27,SPI ,Canary Is ,North Africa ,Africa 
+Cyclone ,Beryl ,3,3000,1982,9,29,CPV ,Cape Verde Is ,West Africa ,Africa 
+Tropical storm ,Fran ,29,0,1984,9,16,CPV ,Cape Verde Is ,West Africa ,Africa 
+Hurricane ,Lili ,0,0,2002,9,30,CYM ,Cayman Islands ,Caribbean ,Americas 
+Hurricane ,Charley ,0,0,2004,8,13,CYM ,Cayman Islands ,Caribbean ,Americas 
+Hurricane ,Ivan ,1,3430080,2004,9,12,CYM ,Cayman Islands ,Caribbean ,Americas 
+Storm , ,0,125,1981,11,18,CAF ,Central African Rep ,Central Africa ,Africa 
+Storm , ,3,0,2001,3,0,CAF ,Central African Rep ,Central Africa ,Africa 
+Storm , ,13,0,1977,5,20,TCD ,Chad ,Central Africa ,Africa 
+Storm , ,11,157,1988,6,25,TCD ,Chad ,Central Africa ,Africa 
+Storm , ,58,0,1965,8,0,CHL ,Chile ,South America ,Americas 
+Storm , ,0,0,1968,7,23,CHL ,Chile ,South America ,Americas 
+Winter , ,0,2500,1971,6,20,CHL ,Chile ,South America ,Americas 
+Storm , ,15,6800,1977,7,20,CHL ,Chile ,South America ,Americas 
+Winter , ,85,0,1984,7,0,CHL ,Chile ,South America ,Americas 
+Storm , ,42,0,1984,7,0,CHL ,Chile ,South America ,Americas 
+Storm , ,16,0,1986,6,15,CHL ,Chile ,South America ,Americas 
+Winter , ,0,0,1992,5,26,CHL ,Chile ,South America ,Americas 
+Storm , ,0,0,1992,6,6,CHL ,Chile ,South America ,Americas 
+Storm , ,4,0,1997,6,4,CHL ,Chile ,South America ,Americas 
+Winter , ,0,0,1997,6,20,CHL ,Chile ,South America ,Americas 
+Storm , ,2,0,2001,5,29,CHL ,Chile ,South America ,Americas 
+Winter , ,45,0,2005,5,18,CHL ,Chile ,South America ,Americas 
+Typhoon , ,50000,0,1912,8,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,100000,0,1922,7,27,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,5000,0,1927,9,26,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,800,0,1948,9,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,2000,0,1956,8,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Ellen ,1064,0,1959,8,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Iris ,720,0,1959,8,20,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Ruby ,686,0,1964,9,5,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Fran ,107,0,1970,9,7,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Joe ,188,0,1980,7,24,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,0,0,1981,4,15,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,275,0,1983,4,0,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,54,0,1983,4,14,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,30,0,1983,3,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Ellen ,82,0,1983,9,2,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,69,0,1983,11,3,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Ike ,13,0,1984,9,9,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Freda ,0,0,1984,0,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,0,0,1984,8,0,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,108,0,1985,4,0,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,11,0,1985,6,27,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,177,0,1985,7,30,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,9,50000,1986,4,0,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,36,3200,1986,7,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Peggy ,172,380000,1986,7,11,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,43,54000,1986,7,21,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,0,0,1986,1,0,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,100,0,1986,5,22,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Vera ,8,940000,1986,8,27,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,2,0,1987,3,6,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,132,0,1987,6,19,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,29,0,1987,7,31,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,101,0,1987,8,15,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Gerald ,102,120000,1987,9,11,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Ruth ,40,0,1987,6,9,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,65,0,1988,6,29,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,70,0,1988,6,11,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Bill (n°7) ,194,0,1988,8,8,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Kit ,6,0,1988,9,21,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,157,400000,1989,4,20,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Vera ,550,485000,1989,9,19,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Brian ,31,0,1989,10,5,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Brenda ,84,0,1989,5,26,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,67,0,1989,6,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Hope ,200,0,1989,7,21,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,26,0,1989,8,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,N°5 ,56,16000,1990,6,24,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,N°6 ,16,28000,1990,6,29,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Yancy ,144,157000,1990,8,20,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,25,335,1990,11,9,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,36,0,1990,4,4,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Tasha ,108,83000,1990,7,31,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Abe ,115,688000,1990,8,30,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Dot ,26,0,1990,9,8,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Dot ,120,154000,1990,9,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon , ,68,743000,1990,8,31,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,2,0,1990,11,16,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,69,28000,1991,3,17,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Amy ,100,465330,1991,7,20,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Fred ,14,175050,1991,8,13,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Zeke ,33,117560,1991,7,10,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,35,68700,1992,3,15,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,109,96000,1992,4,20,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,448,68700,1992,7,3,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,0,0,1992,3,0,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,47,110000,1992,8,8,CHN ,China P Rep ,East Asia ,Asia 
+Tropical storm ,Polly ,165,412400,1992,8,29,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Ted ,53,425000,1992,9,21,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,0,90000,1992,5,1,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,31,88000,1993,4,24,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Tasha ,28,433920,1993,8,21,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,15,0,1993,1,0,CHN ,China P Rep ,East Asia ,Asia 
+Cyclone , ,19,0,1993,3,0,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,93,41000,1993,5,5,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Koryn ,10,219670,1993,6,22,CHN ,China P Rep ,East Asia ,Asia 
+Storm ,Levis ,0,7380,1993,8,9,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Abe ,10,12610,1993,9,10,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Becky ,7,263670,1993,9,15,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Dot ,1,286370,1993,9,24,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Ira ,0,15890,1993,10,28,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,101,200000,1994,5,1,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,9403,90,700000,1994,8,6,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Russ ,74,252770,1994,6,10,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Tim ,47,96300,1994,7,13,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Fred (9416) ,1174,1150000,1994,8,24,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,4,0,1995,2,16,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,0,240,1995,3,2,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,54,35600,1995,4,20,CHN ,China P Rep ,East Asia ,Asia 
+Storm ,Helen ,26,160000,1995,8,15,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Kent ,445,87000,1995,8,30,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,152,120000,1995,11,1,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,48,68000,1996,1,0,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,6,0,1996,4,19,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Herb ,85,837000,1996,7,31,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Sally ,197,1500000,1996,9,8,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Willie ,147,156700,1996,9,24,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,36,0,1996,12,25,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,34,29000,1997,1,15,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,40,0,1997,5,9,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,28,156000,1997,6,8,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Victor ,1,0,1997,8,3,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Winnie ,140,2675000,1997,8,18,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Zita ,7,326500,1997,8,25,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,0,0,1998,1,16,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,12,0,1998,4,18,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,62,0,1998,4,25,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,17,37200,1998,5,20,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,22,0,1999,4,23,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,0,0,1999,4,28,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,13,0,1999,5,16,CHN ,China P Rep ,East Asia ,Asia 
+Tropical storm ,Wendy ,192,277900,1999,9,4,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,200,180000,1999,8,12,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,York ,15,24000,1999,9,17,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Dan ,30,241600,1999,10,9,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Sam ,5,18000,1999,8,23,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,11,39900,1999,12,0,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,16,0,2000,3,28,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,9,3100,2000,1,10,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,15,5000,2000,5,1,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,33,0,2000,6,17,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,11,480,2000,7,13,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,10,13288,2000,8,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Bilis ,11,69443,2000,8,23,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Prapiroon ,4,0,2000,8,0,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Maria ,47,169000,2000,9,1,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Wukong ,6,0,2000,9,9,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,49,12000,2001,1,1,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Chebi ,125,473000,2001,6,23,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Durian and Utor ,0,0,2001,7,1,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Yutu ,0,85000,2001,7,24,CHN ,China P Rep ,East Asia ,Asia 
+Cyclone , ,0,0,2001,6,19,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,15,0,2001,7,7,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,12,0,2001,9,1,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,0,0,2002,3,14,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Rammasun ,5,80000,2002,7,5,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,25,0,2002,7,19,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Sinlaku ,17,144000,2002,9,7,CHN ,China P Rep ,East Asia ,Asia 
+Tropical storm ,Hagupit ,25,0,2002,9,13,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,26,32500,2002,12,25,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,1,0,2003,4,14,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Imbudo ,20,0,2003,7,24,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,2,0,2003,7,19,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Dujuan ,38,241000,2003,9,1,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Nepartak ,0,196938,2003,11,18,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,7,6000,2004,4,21,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,0,280,2004,6,1,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,0,12700,2004,6,20,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,46,0,2004,5,26,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Rananim ,188,2190000,2004,8,12,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Aere ,0,0,2004,8,25,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,6,4000,2004,5,8,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,36,300000,2005,3,3,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,1,0,2005,2,28,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,19,16915,2005,4,8,CHN ,China P Rep ,East Asia ,Asia 
+Winter , ,15,0,2005,5,13,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,9,0,2005,6,10,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,0,6000,2005,5,31,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Haitang ,9,260000,2005,7,16,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,8,0,2005,6,17,CHN ,China P Rep ,East Asia ,Asia 
+Tornado , ,15,0,2005,7,30,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Matsa ,19,850000,2005,8,6,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Talim ,159,1900000,2005,9,1,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Khanun ,16,0,2005,9,11,CHN ,China P Rep ,East Asia ,Asia 
+Tropical storm ,Damrey ,25,0,2005,9,26,CHN ,China P Rep ,East Asia ,Asia 
+Typhoon ,Longwang ,95,148000,2005,10,2,CHN ,China P Rep ,East Asia ,Asia 
+Storm , ,0,50,1968,1,29,COL ,Colombia ,South America ,Americas 
+Tornado , ,1,0,1983,6,17,COL ,Colombia ,South America ,Americas 
+Storm , ,4,2500,1986,7,0,COL ,Colombia ,South America ,Americas 
+Hurricane ,Joan ,26,50000,1988,10,17,COL ,Colombia ,South America ,Americas 
+Tornado , ,5,0,2001,6,1,COL ,Colombia ,South America ,Americas 
+Hurricane ,Beta ,0,0,2005,10,29,COL ,Colombia ,South America ,Americas 
+Tornado , ,500,0,1951,1,4,COM ,Comoros ,East Africa ,Africa 
+Cyclone ,Elinah ,33,23000,1983,1,10,COM ,Comoros ,East Africa ,Africa 
+Cyclone , ,2,5568,1985,2,14,COM ,Comoros ,East Africa ,Africa 
+Cyclone ,Jan ,24,9000,1987,1,3,COM ,Comoros ,East Africa ,Africa 
+Cyclone ,Kalafandji; Firinga ,0,5236,1989,1,24,COM ,Comoros ,East Africa ,Africa 
+Storm , ,0,0,2003,4,25,COM ,Comoros ,East Africa ,Africa 
+Cyclone , ,0,0,1942,2,19,COK ,Cook Is ,Oceania ,Oceania 
+Cyclone , ,0,0,1943,3,6,COK ,Cook Is ,Oceania ,Oceania 
+Cyclone , ,0,0,1946,0,0,COK ,Cook Is ,Oceania ,Oceania 
+Cyclone , ,0,0,1967,12,16,COK ,Cook Is ,Oceania ,Oceania 
+Cyclone ,Daman ,0,0,1981,2,21,COK ,Cook Is ,Oceania ,Oceania 
+Cyclone ,Sally ,5,25000,1987,1,2,COK ,Cook Is ,Oceania ,Oceania 
+Cyclone ,Peni ,1,0,1990,2,14,COK ,Cook Is ,Oceania ,Oceania 
+Cyclone ,Martin ,19,0,1997,11,7,COK ,Cook Is ,Oceania ,Oceania 
+Cyclone ,Trina ,0,0,2001,12,2,COK ,Cook Is ,Oceania ,Oceania 
+Cyclone ,Percy ,0,0,2005,2,28,COK ,Cook Is ,Oceania ,Oceania 
+Hurricane ,Joan ,28,60000,1988,10,19,CRI ,Costa Rica ,Central America ,Americas 
+Hurricane ,Cesar ,51,0,1996,7,29,CRI ,Costa Rica ,Central America ,Americas 
+Storm , ,3,0,1996,10,12,CRI ,Costa Rica ,Central America ,Americas 
+Hurricane ,Mitch ,8,91090,1998,10,25,CRI ,Costa Rica ,Central America ,Americas 
+Hurricane ,Stan ,0,0,2005,10,1,CRI ,Costa Rica ,Central America ,Americas 
+Winter , ,2,0,2005,2,0,HRV ,Croatia ,Rest of Europe ,Europe 
+Hurricane , ,600,0,1926,10,20,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane , ,2500,0,1932,11,9,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane , ,35,0,1935,9,28,CUB ,Cuba ,Caribbean ,Americas 
+Storm , ,0,0,1944,10,18,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane , ,3,12000,1948,9,21,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane , ,11,6000,1948,10,5,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Flora ,1750,500000,1963,10,4,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane , ,0,0,1964,8,0,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Inez ,5,18000,1966,9,30,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Gladys ,0,0,1968,10,13,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane , ,20,0,1970,8,3,CUB ,Cuba ,Caribbean ,Americas 
+Storm , ,6,0,1978,2,11,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Allen ,0,0,1980,8,4,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Alberto ,24,85000,1982,6,3,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Kate ,4,0,1985,11,18,CUB ,Cuba ,Caribbean ,Americas 
+Storm , ,0,0,1988,6,0,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Gilbert ,0,0,1988,9,0,CUB ,Cuba ,Caribbean ,Americas 
+Storm , ,5,1000000,1993,3,13,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Gordon ,2,101968,1994,11,13,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Allison ,2,0,1995,6,3,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Lilli ,0,13000,1996,10,17,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Georges ,6,0,1998,9,22,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Irene ,4,0,1999,10,14,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Michelle ,5,87000,2001,11,4,CUB ,Cuba ,Caribbean ,Americas 
+Tropical storm ,Isidore ,0,0,2002,9,18,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Lili ,3,0,2002,10,1,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Charley ,4,1000000,2004,8,14,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Ivan ,0,0,2004,9,13,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Dennis ,16,1400000,2005,7,8,CUB ,Cuba ,Caribbean ,Americas 
+Hurricane ,Wilma ,4,0,2005,10,19,CUB ,Cuba ,Caribbean ,Americas 
+Storm , ,3,100,1969,12,22,CYP ,Cyprus ,Rest of Europe ,Europe 
+Storm , ,0,0,1983,4,23,CYP ,Cyprus ,Rest of Europe ,Europe 
+Tornado , ,0,10000,2003,1,27,CYP ,Cyprus ,Rest of Europe ,Europe 
+Winter , ,0,0,2004,1,22,CYP ,Cyprus ,Rest of Europe ,Europe 
+Winter , ,0,0,2002,1,0,CZE ,Czech Rep ,Rest of Europe ,Europe 
+Winter , ,0,0,2005,2,0,CZE ,Czech Rep ,Rest of Europe ,Europe 
+Winter , ,0,0,1981,7,19,CSK ,Czechoslovakia ,Rest of Europe ,Europe 
+Storm , ,0,0,1984,11,22,CSK ,Czechoslovakia ,Rest of Europe ,Europe 
+Storm , ,0,15000,1987,7,8,CSK ,Czechoslovakia ,Rest of Europe ,Europe 
+Winter ,Capella ,0,0,1976,1,2,DNK ,Denmark ,European Union ,Europe 
+Storm , ,0,0,1980,12,24,DNK ,Denmark ,European Union ,Europe 
+Winter , ,9,250000,1981,11,24,DNK ,Denmark ,European Union ,Europe 
+Storm , ,2,0,1983,1,18,DNK ,Denmark ,European Union ,Europe 
+Storm , ,0,0,1985,8,0,DNK ,Denmark ,European Union ,Europe 
+Winter ,Daria ,0,190960,1990,1,0,DNK ,Denmark ,European Union ,Europe 
+Storm ,Anatol ,7,276000,1999,12,3,DNK ,Denmark ,European Union ,Europe 
+Storm , ,1,0,2002,10,27,DNK ,Denmark ,European Union ,Europe 
+Storm , ,4,0,2005,1,7,DNK ,Denmark ,European Union ,Europe 
+Storm , ,0,0,1995,7,0,DJI ,Djibouti ,East Africa ,Africa 
+Hurricane , ,2000,0,1930,9,3,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane ,Edith ,0,2600,1963,9,25,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane , ,0,0,1970,8,20,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane ,David & Federick ,40,44650,1979,8,29,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane ,Allen ,0,0,1980,8,4,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane ,Klaus ,2,2000,1984,10,9,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane ,Hugo ,0,20000,1989,9,17,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane ,Luis ,1,3428,1995,9,5,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane ,Lenny ,0,0,1999,11,17,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane ,Iris ,3,0,2001,10,6,DMA ,Dominica ,Caribbean ,Americas 
+Hurricane ,San Zenon ,2000,40000,1930,9,3,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Flora ,400,60000,1963,10,2,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Cleo ,7,1000,1964,8,24,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Inez ,74,5000,1966,9,29,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,David & Frederick ,1400,150000,1979,8,0,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Allen ,7,47000,1980,8,4,DOM ,Dominican Rep ,Caribbean ,Americas 
+Storm , ,12,0,1986,6,0,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Emily ,3,23700,1987,9,22,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Hugo ,0,0,1989,9,0,DOM ,Dominican Rep ,Caribbean ,Americas 
+Storm , ,9,0,1995,8,17,DOM ,Dominican Rep ,Caribbean ,Americas 
+Tornado , ,2,0,1995,10,7,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Hortense ,23,0,1996,9,10,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Georges ,347,1981500,1998,9,20,DOM ,Dominican Rep ,Caribbean ,Americas 
+Tropical storm ,Odette ,8,0,2003,12,6,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Frances ,0,0,2004,9,2,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Ivan ,4,0,2004,9,9,DOM ,Dominican Rep ,Caribbean ,Americas 
+Hurricane ,Jeanne ,11,296000,2004,9,16,DOM ,Dominican Rep ,Caribbean ,Americas 
+Tropical storm ,Alpha ,9,0,2005,10,23,DOM ,Dominican Rep ,Caribbean ,Americas 
+Storm , ,3,0,1979,5,6,EGY ,Egypt ,North Africa ,Africa 
+Storm , ,30,0,1987,10,17,EGY ,Egypt ,North Africa ,Africa 
+Storm , ,18,1000,1997,5,2,EGY ,Egypt ,North Africa ,Africa 
+Winter , ,13,0,2004,1,22,EGY ,Egypt ,North Africa ,Africa 
+Hurricane , ,2000,0,1934,6,8,SLV ,El Salvador ,Central America ,Americas 
+Hurricane ,Francelia ,2,1600,1969,9,4,SLV ,El Salvador ,Central America ,Americas 
+Hurricane ,Cesar ,12,0,1996,7,26,SLV ,El Salvador ,Central America ,Americas 
+Storm ,Andres ,4,0,1997,6,9,SLV ,El Salvador ,Central America ,Americas 
+Hurricane ,Mitch ,475,388100,1998,10,25,SLV ,El Salvador ,Central America ,Americas 
+Hurricane ,Keith ,1,0,2000,10,1,SLV ,El Salvador ,Central America ,Americas 
+Hurricane ,Isidore ,0,0,2002,9,21,SLV ,El Salvador ,Central America ,Americas 
+Hurricane ,Stan ,69,355700,2005,10,1,SLV ,El Salvador ,Central America ,Americas 
+Tropical storm ,Adrian ,0,0,2005,5,19,SLV ,El Salvador ,Central America ,Americas 
+Storm , ,3,5165,1993,4,15,ERI ,Eritrea ,East Africa ,Africa 
+Storm , ,0,0,2005,1,7,EST ,Estonia ,Russian Federation ,Europe 
+Cyclone , ,200,0,1931,2,16,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone , ,6,0,1941,2,19,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone , ,23,2000,1952,1,28,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone , ,0,0,1958,1,7,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone , ,2,0,1965,2,7,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Bebe ,3,22500,1972,10,24,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Juliette ,0,0,1973,4,3,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Lottie ,59,0,1973,12,9,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Val ,0,1000,1975,1,30,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Bob ,0,0,1978,2,4,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Meli ,53,0,1979,3,27,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Wally ,18,2256,1980,3,24,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Arthur ,0,0,1981,1,15,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Oscar ,9,50000,1983,3,1,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Sarah ,0,851,1983,3,25,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Eric; Nigel; Odette ,28,73000,1985,1,17,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Gavin ,3,0,1985,3,5,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone , ,1,3000,1985,3,17,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Rajah ,1,20000,1986,12,28,FJI ,Fiji ,Oceania ,Oceania 
+Storm , ,1,25000,1987,1,0,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Sina ,0,10000,1990,11,28,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Joni ,1,261313,1992,12,11,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Kina ,21,100000,1993,1,2,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Gavin ,25,27000,1997,3,10,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Dani ,12,215,1999,1,19,FJI ,Fiji ,Oceania ,Oceania 
+Cyclone ,Paula ,1,0,2001,3,1,FJI ,Fiji ,Oceania ,Oceania 
+Tropical storm ,Ami ,17,30000,2003,1,14,FJI ,Fiji ,Oceania ,Oceania 
+Tropical storm , ,16,4000,2004,4,8,FJI ,Fiji ,Oceania ,Oceania 
+Tornado , ,5,20000,1967,6,25,FRA ,France ,European Union ,Europe 
+Storm , ,23,0,1969,7,6,FRA ,France ,European Union ,Europe 
+Winter , ,0,0,1976,1,0,FRA ,France ,European Union ,Europe 
+Winter , ,12,350000,1982,11,6,FRA ,France ,European Union ,Europe 
+Winter , ,0,0,1982,1,15,FRA ,France ,European Union ,Europe 
+Storm , ,0,0,1983,2,0,FRA ,France ,European Union ,Europe 
+Storm , ,11,0,1983,7,26,FRA ,France ,European Union ,Europe 
+Storm , ,4,200000,1984,7,11,FRA ,France ,European Union ,Europe 
+Tropical storm ,Hortense ,0,0,1984,10,5,FRA ,France ,European Union ,Europe 
+Storm , ,0,0,1984,11,21,FRA ,France ,European Union ,Europe 
+Storm , ,0,0,1985,8,0,FRA ,France ,European Union ,Europe 
+Winter , ,4,1700000,1987,10,16,FRA ,France ,European Union ,Europe 
+Storm , ,9,0,1989,2,26,FRA ,France ,European Union ,Europe 
+Winter , ,0,0,1990,12,9,FRA ,France ,European Union ,Europe 
+Winter ,Daria ,66,1969275,1990,1,0,FRA ,France ,European Union ,Europe 
+Storm , ,1,0,1992,1,22,FRA ,France ,European Union ,Europe 
+Storm , ,47,0,1992,9,22,FRA ,France ,European Union ,Europe 
+Storm , ,2,0,1993,7,5,FRA ,France ,European Union ,Europe 
+Storm , ,10,70000,1993,9,0,FRA ,France ,European Union ,Europe 
+Storm ,Cilly; Desiree; Fanny ,6,0,1998,1,0,FRA ,France ,European Union ,Europe 
+Storm , ,3,0,1999,5,30,FRA ,France ,European Union ,Europe 
+Storm ,Lothar ,92,8000000,1999,12,26,FRA ,France ,European Union ,Europe 
+Storm , ,6,0,2000,9,19,FRA ,France ,European Union ,Europe 
+Tornado , ,12,0,2001,7,6,FRA ,France ,European Union ,Europe 
+Tornado , ,2,0,2001,10,20,FRA ,France ,European Union ,Europe 
+Storm ,Jeanett ,4,0,2002,10,27,FRA ,France ,European Union ,Europe 
+Storm , ,1,0,2002,11,18,FRA ,France ,European Union ,Europe 
+Storm , ,5,0,2003,7,15,FRA ,France ,European Union ,Europe 
+Storm , ,11,0,2004,8,17,FRA ,France ,European Union ,Europe 
+Cyclone , ,0,0,1958,1,19,PYF ,French Polynesia ,Oceania ,Oceania 
+Cyclone ,Orama ,6,16000,1983,2,0,PYF ,French Polynesia ,Oceania ,Oceania 
+Cyclone ,Veena ,1,21000,1983,4,14,PYF ,French Polynesia ,Oceania ,Oceania 
+Storm , ,3,0,2003,8,24,GMB ,Gambia The ,West Africa ,Africa 
+Storm , ,2,0,2004,5,24,GMB ,Gambia The ,West Africa ,Africa 
+Winter , ,0,0,2001,2,0,GEO ,Georgia ,Russian Federation ,Asia 
+Winter ,Daria ,64,4535300,1990,1,0,DEU ,Germany ,European Union ,Europe 
+Storm , ,6,380000,1993,1,14,DEU ,Germany ,European Union ,Europe 
+Storm ,Gordon ,5,0,1994,1,28,DEU ,Germany ,European Union ,Europe 
+Storm , ,0,300000,1995,7,21,DEU ,Germany ,European Union ,Europe 
+Storm ,Lothar ,15,1600000,1999,12,26,DEU ,Germany ,European Union ,Europe 
+Storm , ,6,300000,2001,7,6,DEU ,Germany ,European Union ,Europe 
+Storm ,Jennifer ,4,150000,2002,1,28,DEU ,Germany ,European Union ,Europe 
+Storm , ,7,0,2002,7,10,DEU ,Germany ,European Union ,Europe 
+Storm , ,10,0,2002,10,26,DEU ,Germany ,European Union ,Europe 
+Storm , ,10,0,2003,6,7,DEU ,Germany ,European Union ,Europe 
+Winter ,Gerda ,0,130000,2004,1,12,DEU ,Germany ,European Union ,Europe 
+Storm , ,2,0,2005,1,8,DEU ,Germany ,European Union ,Europe 
+Storm , ,0,0,1984,1,0,DDR ,Germany Dem Rep ,Rest of Europe ,Europe 
+Storm , ,0,0,1984,7,0,DDR ,Germany Dem Rep ,Rest of Europe ,Europe 
+Storm , ,0,0,1985,8,0,DDR ,Germany Dem Rep ,Rest of Europe ,Europe 
+Storm , ,0,55000,1929,7,0,DFR ,Germany Fed Rep ,European Union ,Europe 
+Storm , ,0,25000,1953,7,0,DFR ,Germany Fed Rep ,European Union ,Europe 
+Storm , ,347,600000,1962,2,0,DFR ,Germany Fed Rep ,European Union ,Europe 
+Tornado , ,2,31000,1968,7,10,DFR ,Germany Fed Rep ,European Union ,Europe 
+Winter , ,54,420000,1972,11,12,DFR ,Germany Fed Rep ,European Union ,Europe 
+Storm , ,0,22000,1974,8,0,DFR ,Germany Fed Rep ,European Union ,Europe 
+Winter ,Capella ,82,1300000,1976,1,2,DFR ,Germany Fed Rep ,European Union ,Europe 
+Storm , ,3,1000000,1984,7,12,DFR ,Germany Fed Rep ,European Union ,Europe 
+Storm , ,0,0,1984,11,22,DFR ,Germany Fed Rep ,European Union ,Europe 
+Storm , ,0,0,1985,8,0,DFR ,Germany Fed Rep ,European Union ,Europe 
+Storm , ,22,0,1930,6,13,GRC ,Greece ,European Union ,Europe 
+Cyclone , ,43,0,1961,11,0,GRC ,Greece ,European Union ,Europe 
+Storm , ,48,350000,1987,3,0,GRC ,Greece ,European Union ,Europe 
+Winter , ,2,0,2002,1,4,GRC ,Greece ,European Union ,Europe 
+Winter , ,0,0,2004,1,22,GRC ,Greece ,European Union ,Europe 
+Hurricane ,Flora ,6,0,1963,9,30,GRD ,Grenada ,Caribbean ,Americas 
+Hurricane ,Allen ,0,5300,1980,8,4,GRD ,Grenada ,Caribbean ,Americas 
+Tropical storm ,Arthur ,0,0,1990,7,26,GRD ,Grenada ,Caribbean ,Americas 
+Hurricane ,Lenny ,0,5500,1999,11,14,GRD ,Grenada ,Caribbean ,Americas 
+Hurricane ,Ivan ,39,889000,2004,9,8,GRD ,Grenada ,Caribbean ,Americas 
+Hurricane ,Emily ,1,0,2005,7,17,GRD ,Grenada ,Caribbean ,Americas 
+Hurricane ,Felipe ,2000,0,1928,9,15,GLP ,Guadeloupe ,Caribbean ,Americas 
+Hurricane ,Betsy ,0,0,1956,8,11,GLP ,Guadeloupe ,Caribbean ,Americas 
+Hurricane ,Cleo ,14,0,1964,8,22,GLP ,Guadeloupe ,Caribbean ,Americas 
+Hurricane ,Inez ,25,70000,1966,9,27,GLP ,Guadeloupe ,Caribbean ,Americas 
+Hurricane , ,0,0,1970,8,20,GLP ,Guadeloupe ,Caribbean ,Americas 
+Hurricane ,David ,0,100000,1979,8,0,GLP ,Guadeloupe ,Caribbean ,Americas 
+Hurricane ,Hugo ,5,50000,1989,9,17,GLP ,Guadeloupe ,Caribbean ,Americas 
+Hurricane ,Gustav ,0,0,1990,8,27,GLP ,Guadeloupe ,Caribbean ,Americas 
+Hurricane ,Lenny ,4,0,1999,11,17,GLP ,Guadeloupe ,Caribbean ,Americas 
+Cyclone ,Karen ,9,250000,1962,11,0,GUM ,Guam ,Oceania ,Oceania 
+Cyclone ,Pamela ,10,120000,1976,5,0,GUM ,Guam ,Oceania ,Oceania 
+Cyclone ,Lynn ,0,145,1987,10,0,GUM ,Guam ,Oceania ,Oceania 
+Cyclone ,Omar ,1,300000,1992,8,28,GUM ,Guam ,Oceania ,Oceania 
+Cyclone ,Paka ,0,200000,1997,12,17,GUM ,Guam ,Oceania ,Oceania 
+Typhoon ,Chata'an ,0,0,2002,7,5,GUM ,Guam ,Oceania ,Oceania 
+Typhoon ,Pongsona ,1,70000,2002,12,8,GUM ,Guam ,Oceania ,Oceania 
+Tropical storm ,Tingting ,4,0,2004,6,27,GUM ,Guam ,Oceania ,Oceania 
+Hurricane ,Francelia ,269,15000,1969,9,5,GTM ,Guatemala ,Central America ,Americas 
+Hurricane ,Mitch ,384,748000,1998,10,26,GTM ,Guatemala ,Central America ,Americas 
+Hurricane ,Iris ,8,0,2001,10,8,GTM ,Guatemala ,Central America ,Americas 
+Hurricane ,Isidore ,2,0,2002,9,20,GTM ,Guatemala ,Central America ,Americas 
+Hurricane ,Stan ,1513,988300,2005,10,1,GTM ,Guatemala ,Central America ,Americas 
+Tornado , ,4,0,2000,6,11,GIN ,Guinea ,West Africa ,Africa 
+Storm , ,1,0,1987,7,1,GNB ,Guinea Bissau ,West Africa ,Africa 
+Cyclone , ,0,0,1993,9,10,GNB ,Guinea Bissau ,West Africa ,Africa 
+Hurricane , ,150,0,1909,11,12,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane , ,1600,0,1915,8,12,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Jeremie & Jacmel ,2150,0,1935,10,21,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Hazel ,410,0,1954,10,5,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Flora ,5000,180000,1963,10,4,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Cleo ,100,10000,1964,8,24,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Inez ,480,20000,1966,9,29,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,David ,8,0,1979,8,31,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Allen ,300,40000,1980,8,5,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Gilbert ,54,91286,1988,9,11,HTI ,Haiti ,Caribbean ,Americas 
+Tropical storm ,Arthur ,0,0,1990,7,27,HTI ,Haiti ,Caribbean ,Americas 
+Storm ,Gordon ,1122,0,1994,11,15,HTI ,Haiti ,Caribbean ,Americas 
+Storm , ,40,0,1996,10,23,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Georges ,190,80000,1998,9,20,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Lili ,0,0,2002,9,30,HTI ,Haiti ,Caribbean ,Americas 
+Storm , ,26,0,2003,10,6,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Ivan ,3,0,2004,9,13,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Jeanne ,2754,21000,2004,9,17,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Dennis ,40,0,2005,7,7,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Emily ,6,0,2005,7,17,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Stan ,1,0,2005,10,0,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane ,Wilma ,5,0,2005,10,19,HTI ,Haiti ,Caribbean ,Americas 
+Tropical storm ,Alpha ,17,0,2005,10,23,HTI ,Haiti ,Caribbean ,Americas 
+Hurricane , ,1500,0,1931,9,10,HND ,Honduras ,Central America ,Americas 
+Hurricane , ,275,0,1961,10,0,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Francelia ,0,19000,1969,9,1,HND ,Honduras ,Central America ,Americas 
+Hurricane , ,0,0,1971,9,9,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Fifi ,8000,540000,1974,9,18,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Greta ,0,1000,1978,9,17,HND ,Honduras ,Central America ,Americas 
+Tropical storm ,Alleta ,130,101000,1982,5,24,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Joan ,0,0,1988,10,16,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Allison ,18,0,1995,6,3,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Mitch ,14600,3793600,1998,10,25,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Michelle ,21,0,2001,10,30,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Stan ,6,0,2005,9,28,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Wilma ,0,0,2005,10,21,HND ,Honduras ,Central America ,Americas 
+Hurricane ,Beta ,0,0,2005,10,30,HND ,Honduras ,Central America ,Americas 
+Tropical storm ,Gamma ,47,0,2005,11,18,HND ,Honduras ,Central America ,Americas 
+Typhoon , ,10000,20000,1906,9,8,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon , ,100,0,1923,8,12,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon , ,11000,0,1937,9,1,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon , ,2000,0,1947,10,7,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Gloria ,8,0,1957,9,20,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm , ,43,0,1959,6,0,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Mary ,45,0,1960,6,4,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm ,Olga ,7,0,1961,9,9,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Wanda ,183,0,1962,8,28,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Ruby ,44,0,1964,9,5,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Dot ,26,0,1964,10,12,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm ,Agnes ,5,0,1965,9,26,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm , ,15,0,1966,4,4,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm ,Kate ,0,0,1967,8,19,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Shirley ,0,0,1968,8,21,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Viola ,0,0,1969,7,28,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Rose ,115,0,1971,8,17,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Dot ,1,0,1973,7,15,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Carmen ,1,0,1974,10,17,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Elaine ,0,0,1974,10,28,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm , ,0,0,1975,4,28,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Elsie ,0,0,1975,10,12,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Ruby ,5,0,1976,6,26,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm ,Violet ,3,0,1976,7,22,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Ellen ,30,0,1976,8,24,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm , ,0,0,1977,7,4,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm ,Freda ,1,0,1977,9,22,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm ,Agnes ,3,0,1978,7,28,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm , Elaine ,1,0,1978,8,23,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm ,Kit ,7,0,1978,9,22,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Hope ,12,10000,1979,7,28,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Mac ,1,0,1979,9,23,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm , ,0,0,1980,8,7,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Joe ,2,0,1980,7,18,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm , ,0,0,1981,3,19,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm ,Dot ,5,0,1982,8,15,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Ellen ,22,12544,1983,9,9,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Joe ,0,0,1983,0,0,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Tess ,2,42,1985,9,6,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Peggy ,1,0,1986,7,9,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Wayne ,4,0,1986,8,21,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Ruby ,0,0,1988,10,21,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Brenda ,7,0,1989,5,16,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Gordon ,2,67,1989,7,11,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Fred ,22,132000,1991,8,15,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Tropical storm ,Gari (Ditang) ,0,219700,1992,7,20,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm ,Faye ,2,0,1992,7,20,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Koryn ,4,120,1993,6,27,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm ,Lewis ,0,0,1993,7,8,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Tasha ,0,0,1993,8,20,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm ,Becky ,82,140,1993,9,15,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Dot ,1,6000,1993,9,23,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Ira ,2,800,1993,10,28,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,York ,2,0,1999,9,16,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Imbudo ,0,0,2003,7,26,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Typhoon ,Dujuan ,4,0,2003,9,2,HKG ,Hong Kong (China) ,East Asia ,Asia 
+Storm , ,4,0,1984,2,13,HUN ,Hungary ,Rest of Europe ,Europe 
+Winter , ,40,0,1999,2,0,HUN ,Hungary ,Rest of Europe ,Europe 
+Winter , ,7,0,2003,2,1,HUN ,Hungary ,Rest of Europe ,Europe 
+Winter , ,4,0,2005,1,0,HUN ,Hungary ,Rest of Europe ,Europe 
+Cyclone , ,300,0,1916,11,21,IND ,India ,South Asia ,Asia 
+Cyclone , ,1242,0,1924,9,23,IND ,India ,South Asia ,Asia 
+Cyclone , ,80,0,1925,5,10,IND ,India ,South Asia ,Asia 
+Cyclone , ,56,0,1927,7,23,IND ,India ,South Asia ,Asia 
+Cyclone , ,629,0,1927,11,1,IND ,India ,South Asia ,Asia 
+Storm , ,100,0,1935,11,13,IND ,India ,South Asia ,Asia 
+Cyclone , ,60000,0,1935,0,0,IND ,India ,South Asia ,Asia 
+Cyclone , ,233,0,1936,10,28,IND ,India ,South Asia ,Asia 
+Cyclone , ,40000,0,1942,10,14,IND ,India ,South Asia ,Asia 
+Cyclone , ,5000,0,1943,7,24,IND ,India ,South Asia ,Asia 
+Storm , ,0,0,1943,10,3,IND ,India ,South Asia ,Asia 
+Cyclone , ,304,0,1944,6,14,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1945,9,18,IND ,India ,South Asia ,Asia 
+Cyclone , ,1000,0,1949,10,27,IND ,India ,South Asia ,Asia 
+Storm , ,90,0,1950,9,12,IND ,India ,South Asia ,Asia 
+Cyclone , ,400,0,1952,11,26,IND ,India ,South Asia ,Asia 
+Storm , ,350,0,1952,9,0,IND ,India ,South Asia ,Asia 
+Cyclone , ,1500,0,1955,9,28,IND ,India ,South Asia ,Asia 
+Cyclone , ,500,0,1955,11,28,IND ,India ,South Asia ,Asia 
+Storm , ,120,0,1955,12,0,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1956,5,29,IND ,India ,South Asia ,Asia 
+Storm , ,0,0,1958,10,16,IND ,India ,South Asia ,Asia 
+Storm , ,0,0,1962,9,16,IND ,India ,South Asia ,Asia 
+Storm , ,200,0,1963,9,8,IND ,India ,South Asia ,Asia 
+Cyclone , ,112,0,1963,4,0,IND ,India ,South Asia ,Asia 
+Cyclone , ,500,0,1964,12,17,IND ,India ,South Asia ,Asia 
+Cyclone , ,18,4200,1966,11,3,IND ,India ,South Asia ,Asia 
+Cyclone , ,1000,0,1967,10,8,IND ,India ,South Asia ,Asia 
+Cyclone , ,7,0,1968,12,4,IND ,India ,South Asia ,Asia 
+Cyclone , ,600,8330,1969,5,17,IND ,India ,South Asia ,Asia 
+Storm , ,15,0,1969,7,22,IND ,India ,South Asia ,Asia 
+Storm , ,0,0,1969,10,21,IND ,India ,South Asia ,Asia 
+Cyclone , ,200,0,1969,11,4,IND ,India ,South Asia ,Asia 
+Storm , ,0,0,1970,11,19,IND ,India ,South Asia ,Asia 
+Cyclone , ,9658,30000,1971,10,27,IND ,India ,South Asia ,Asia 
+Cyclone , ,60,0,1971,9,27,IND ,India ,South Asia ,Asia 
+Cyclone , ,100,0,1972,9,10,IND ,India ,South Asia ,Asia 
+Storm , ,50,0,1972,10,21,IND ,India ,South Asia ,Asia 
+Cyclone , ,80,0,1972,12,1,IND ,India ,South Asia ,Asia 
+Cyclone , ,20,0,1974,8,15,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1974,5,29,IND ,India ,South Asia ,Asia 
+Storm , ,450,200000,1975,8,0,IND ,India ,South Asia ,Asia 
+Storm , ,30,0,1975,9,0,IND ,India ,South Asia ,Asia 
+Storm , ,21,0,1975,10,22,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1975,11,24,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1975,5,29,IND ,India ,South Asia ,Asia 
+Cyclone , ,40,0,1976,9,8,IND ,India ,South Asia ,Asia 
+Cyclone , ,95,260000,1976,11,22,IND ,India ,South Asia ,Asia 
+Cyclone , ,87,3378,1976,5,29,IND ,India ,South Asia ,Asia 
+Cyclone , ,18,0,1976,11,3,IND ,India ,South Asia ,Asia 
+Cyclone , ,30,3378,1976,11,15,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1976,12,29,IND ,India ,South Asia ,Asia 
+Cyclone , ,14204,498535,1977,11,12,IND ,India ,South Asia ,Asia 
+Cyclone , ,2,0,1977,10,27,IND ,India ,South Asia ,Asia 
+Tornado , ,26,0,1978,3,17,IND ,India ,South Asia ,Asia 
+Tornado , ,500,0,1978,4,16,IND ,India ,South Asia ,Asia 
+Tornado , ,100,0,1978,4,16,IND ,India ,South Asia ,Asia 
+Storm , ,15,0,1978,11,25,IND ,India ,South Asia ,Asia 
+Cyclone , ,170,0,1978,11,3,IND ,India ,South Asia ,Asia 
+Cyclone , ,594,12800,1979,5,12,IND ,India ,South Asia ,Asia 
+Storm , ,125,0,1980,5,9,IND ,India ,South Asia ,Asia 
+Cyclone , ,28,0,1980,10,16,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1980,12,3,IND ,India ,South Asia ,Asia 
+Tornado , ,120,0,1981,4,17,IND ,India ,South Asia ,Asia 
+Storm , ,470,0,1981,11,1,IND ,India ,South Asia ,Asia 
+Cyclone , ,200,0,1981,12,10,IND ,India ,South Asia ,Asia 
+Cyclone , ,15,0,1981,8,7,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1981,9,24,IND ,India ,South Asia ,Asia 
+Cyclone , ,500,625420,1982,11,9,IND ,India ,South Asia ,Asia 
+Cyclone , ,244,120000,1982,6,3,IND ,India ,South Asia ,Asia 
+Cyclone , ,76,0,1983,4,0,IND ,India ,South Asia ,Asia 
+Storm , ,24,0,1983,4,13,IND ,India ,South Asia ,Asia 
+Winter , ,31,25000,1983,5,0,IND ,India ,South Asia ,Asia 
+Cyclone , ,551,56000,1983,6,19,IND ,India ,South Asia ,Asia 
+Cyclone , ,100,510000,1983,10,3,IND ,India ,South Asia ,Asia 
+Cyclone , ,524,35000,1984,11,14,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1984,10,13,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,1984,11,30,IND ,India ,South Asia ,Asia 
+Tropical storm , ,78,0,1985,10,10,IND ,India ,South Asia ,Asia 
+Storm ,Orilla ,100,0,1985,10,17,IND ,India ,South Asia ,Asia 
+Cyclone , ,11,0,1986,5,16,IND ,India ,South Asia ,Asia 
+Storm , ,71,0,1986,7,31,IND ,India ,South Asia ,Asia 
+Tropical storm , ,13,272943,1986,9,25,IND ,India ,South Asia ,Asia 
+Winter , ,65,0,1986,11,16,IND ,India ,South Asia ,Asia 
+Winter , ,230,0,1986,0,0,IND ,India ,South Asia ,Asia 
+Cyclone , ,38,0,1987,11,2,IND ,India ,South Asia ,Asia 
+Cyclone , ,25,0,1987,11,14,IND ,India ,South Asia ,Asia 
+Storm , ,63,0,1987,5,0,IND ,India ,South Asia ,Asia 
+Storm , ,40,0,1987,10,18,IND ,India ,South Asia ,Asia 
+Cyclone ,04B ,74,13000,1988,11,29,IND ,India ,South Asia ,Asia 
+Cyclone , ,43,0,1989,5,26,IND ,India ,South Asia ,Asia 
+Cyclone , ,50,0,1989,11,9,IND ,India ,South Asia ,Asia 
+Cyclone ,02B ,957,580000,1990,5,9,IND ,India ,South Asia ,Asia 
+Storm , ,500,0,1990,8,20,IND ,India ,South Asia ,Asia 
+Storm , ,120,2200000,1990,8,25,IND ,India ,South Asia ,Asia 
+Typhoon , ,250,800000,1990,11,0,IND ,India ,South Asia ,Asia 
+Storm , ,0,1300000,1990,5,6,IND ,India ,South Asia ,Asia 
+Storm , ,16,0,1990,4,20,IND ,India ,South Asia ,Asia 
+Tropical storm ,4B ,125,0,1991,11,12,IND ,India ,South Asia ,Asia 
+Cyclone , ,25,0,1992,4,22,IND ,India ,South Asia ,Asia 
+Storm , ,60,0,1992,6,17,IND ,India ,South Asia ,Asia 
+Cyclone , ,61,100000,1993,12,4,IND ,India ,South Asia ,Asia 
+Cyclone , ,125,0,1993,4,9,IND ,India ,South Asia ,Asia 
+Cyclone , ,208,19100,1994,10,31,IND ,India ,South Asia ,Asia 
+Tornado , ,11,0,1994,6,7,IND ,India ,South Asia ,Asia 
+Cyclone , ,128,46300,1995,11,10,IND ,India ,South Asia ,Asia 
+Cyclone ,3,731,0,1996,6,0,IND ,India ,South Asia ,Asia 
+Cyclone , ,92,0,1996,7,2,IND ,India ,South Asia ,Asia 
+Cyclone ,07B ,708,570000,1996,11,6,IND ,India ,South Asia ,Asia 
+Cyclone , ,6,0,1996,12,4,IND ,India ,South Asia ,Asia 
+Cyclone , ,25,0,1997,8,22,IND ,India ,South Asia ,Asia 
+Tornado , ,250,0,1998,3,24,IND ,India ,South Asia ,Asia 
+Cyclone ,03A ,2871,469000,1998,6,9,IND ,India ,South Asia ,Asia 
+Cyclone , ,250,0,1998,10,18,IND ,India ,South Asia ,Asia 
+Storm , ,100,0,1998,11,22,IND ,India ,South Asia ,Asia 
+Cyclone ,O2a ,278,0,1999,5,20,IND ,India ,South Asia ,Asia 
+Cyclone , ,84,470000,1999,10,18,IND ,India ,South Asia ,Asia 
+Cyclone ,05B ,9843,2500000,1999,10,28,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,2000,10,17,IND ,India ,South Asia ,Asia 
+Cyclone ,03B ,0,0,2000,11,29,IND ,India ,South Asia ,Asia 
+Storm , ,21,0,2001,5,24,IND ,India ,South Asia ,Asia 
+Cyclone , ,78,0,2001,10,0,IND ,India ,South Asia ,Asia 
+Cyclone ,01A ,0,0,2001,5,28,IND ,India ,South Asia ,Asia 
+Cyclone , ,9,416,2002,4,3,IND ,India ,South Asia ,Asia 
+Storm , ,0,0,2002,4,11,IND ,India ,South Asia ,Asia 
+Storm , ,11,0,2002,4,27,IND ,India ,South Asia ,Asia 
+Cyclone , ,124,0,2002,11,13,IND ,India ,South Asia ,Asia 
+Storm , ,20,0,2003,2,17,IND ,India ,South Asia ,Asia 
+Winter , ,14,0,2003,2,19,IND ,India ,South Asia ,Asia 
+Cyclone , ,5,0,2003,2,18,IND ,India ,South Asia ,Asia 
+Storm , ,30,16000,2003,3,12,IND ,India ,South Asia ,Asia 
+Cyclone , ,45,0,2003,4,22,IND ,India ,South Asia ,Asia 
+Cyclone , ,0,0,2003,4,12,IND ,India ,South Asia ,Asia 
+Cyclone , ,50,28000,2003,12,17,IND ,India ,South Asia ,Asia 
+Storm , ,18,0,2005,3,23,IND ,India ,South Asia ,Asia 
+Storm , ,20,0,2005,5,1,IND ,India ,South Asia ,Asia 
+Storm , ,11,0,2005,5,4,IND ,India ,South Asia ,Asia 
+Storm , ,33,0,2005,9,20,IND ,India ,South Asia ,Asia 
+Cyclone , ,300,0,1956,12,0,IDN ,Indonesia ,South-east Asia ,Asia 
+Cyclone , ,1650,0,1973,6,0,IDN ,Indonesia ,South-east Asia ,Asia 
+Storm , ,10,0,1974,1,0,IDN ,Indonesia ,South-east Asia ,Asia 
+Storm , ,25,0,1976,12,0,IDN ,Indonesia ,South-east Asia ,Asia 
+Cyclone , ,1,0,1977,7,30,IDN ,Indonesia ,South-east Asia ,Asia 
+Cyclone , ,0,0,1980,2,15,IDN ,Indonesia ,South-east Asia ,Asia 
+Cyclone , ,2,0,1982,1,0,IDN ,Indonesia ,South-east Asia ,Asia 
+Storm , ,0,0,1985,2,0,IDN ,Indonesia ,South-east Asia ,Asia 
+Storm , ,4,0,2004,2,3,IDN ,Indonesia ,South-east Asia ,Asia 
+Cyclone , ,0,0,2004,3,30,IDN ,Indonesia ,South-east Asia ,Asia 
+Winter , ,60,0,1972,2,10,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Storm , ,14,0,1975,4,21,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Storm , ,200,0,1981,10,19,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Winter , ,22,0,1991,12,12,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Storm , ,0,0,1992,12,31,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Storm , ,0,15000,1993,5,25,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Winter , ,9,13300,1996,1,0,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Storm , ,3,0,2000,1,18,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Storm , ,0,240,2004,2,15,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Winter , ,0,0,2005,2,13,IRN ,Iran Islam Rep ,South Asia ,Asia 
+Storm , ,10,0,1983,1,13,IRL ,Ireland ,European Union ,Europe 
+Hurricane ,Charlie ,11,0,1986,8,25,IRL ,Ireland ,European Union ,Europe 
+Winter , ,0,0,1990,2,11,IRL ,Ireland ,European Union ,Europe 
+Storm ,Udine ,14,0,1991,1,5,IRL ,Ireland ,European Union ,Europe 
+Storm , ,0,0,2000,11,0,IRL ,Ireland ,European Union ,Europe 
+Winter , ,0,0,2000,12,27,IRL ,Ireland ,European Union ,Europe 
+Storm , ,0,0,2005,1,7,IRL ,Ireland ,European Union ,Europe 
+Winter , ,5,0,1991,12,12,ISR ,Israel ,West Asia ,Asia 
+Winter , ,3,2750,2000,1,19,ISR ,Israel ,West Asia ,Asia 
+Storm , ,80,0,1948,9,0,ITA ,Italy ,European Union ,Europe 
+Tornado , ,37,0,1965,7,5,ITA ,Italy ,European Union ,Europe 
+Cyclone , ,35,3200,1970,9,11,ITA ,Italy ,European Union ,Europe 
+Storm , ,24,360000,1973,1,1,ITA ,Italy ,European Union ,Europe 
+Storm , ,14,0,1973,7,14,ITA ,Italy ,European Union ,Europe 
+Winter , ,0,120000,1973,10,0,ITA ,Italy ,European Union ,Europe 
+Tornado , ,1,1000,1978,6,25,ITA ,Italy ,European Union ,Europe 
+Storm , ,0,78000,1987,3,0,ITA ,Italy ,European Union ,Europe 
+Storm , ,24,625700,1987,7,9,ITA ,Italy ,European Union ,Europe 
+Storm , ,9,500000,1987,8,24,ITA ,Italy ,European Union ,Europe 
+Storm , ,8,625000,1993,9,27,ITA ,Italy ,European Union ,Europe 
+Tornado , ,3,0,1994,8,24,ITA ,Italy ,European Union ,Europe 
+Storm , ,22,0,1997,11,23,ITA ,Italy ,European Union ,Europe 
+Hurricane , ,65,0,1903,8,10,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane , ,142,0,1912,11,18,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane , ,57,0,1917,9,22,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane , ,4,0,1923,9,22,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane , ,10,0,1933,10,29,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane , ,0,2000,1935,10,19,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane , ,32,0,1944,8,20,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Charlie ,154,56000,1951,8,17,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Flora ,11,11525,1963,10,3,JAM ,Jamaica ,Caribbean ,Americas 
+Tropical storm ,Gilda ,6,1700,1973,10,17,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Allen ,6,64000,1980,7,31,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Kate ,7,5200,1985,11,18,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Gilbert ,49,1000000,1988,9,12,JAM ,Jamaica ,Caribbean ,Americas 
+Storm ,Gordon ,4,0,1994,11,12,JAM ,Jamaica ,Caribbean ,Americas 
+Tropical storm ,Marco ,0,3000,1996,11,21,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Michelle ,1,2521900,2001,11,6,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Lili ,4,0,2002,9,30,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Isidore ,0,0,2002,9,18,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Charley ,1,0,2004,8,13,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Ivan ,15,595000,2004,9,11,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Dennis ,1,0,2005,7,7,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Emily ,4,0,2005,7,18,JAM ,Jamaica ,Caribbean ,Americas 
+Hurricane ,Wilma ,1,0,2005,10,19,JAM ,Jamaica ,Caribbean ,Americas 
+Typhoon , ,1000,20000,1912,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,4000,50000,1917,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,3000,10000,1923,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,3006,50000,1934,9,21,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Makurazaki ,3746,400000,1945,9,18,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Akune ,451,0,1945,10,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Catherine ,1930,0,1947,9,15,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Lone ,868,0,1948,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Della ,419,0,1949,6,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,38,0,1949,7,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,160,0,1949,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Jane ,509,0,1950,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Ruth ,943,0,1951,10,0,JPN ,Japan ,East Asia ,Asia 
+Storm , ,176,0,1952,7,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,250,0,1953,9,25,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,29,0,1953,6,0,JPN ,Japan ,East Asia ,Asia 
+Storm , ,419,0,1954,5,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,1761,0,1954,9,26,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,46,0,1954,8,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,27,0,1954,9,0,JPN ,Japan ,East Asia ,Asia 
+Storm , ,198,0,1955,2,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,72,0,1955,10,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,46,0,1956,8,0,JPN ,Japan ,East Asia ,Asia 
+Storm , ,44,0,1956,10,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,109,0,1957,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,681,0,1958,9,21,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Ida ,1175,0,1958,9,27,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,49,0,1958,7,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,45,0,1958,8,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Vera ,5098,600000,1959,9,26,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,139,0,1959,8,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,27,0,1959,10,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,41,0,1960,8,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,202,0,1961,9,16,JPN ,Japan ,East Asia ,Asia 
+Storm , ,94,0,1961,10,0,JPN ,Japan ,East Asia ,Asia 
+Storm , ,86,0,1963,2,0,JPN ,Japan ,East Asia ,Asia 
+Storm , ,47,0,1963,7,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,0,0,1963,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,42,0,1964,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Dinah ,61,0,1965,6,10,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Jean ,26,0,1965,8,6,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Shirley ,60,0,1965,9,10,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Kit ,44,0,1966,6,28,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Alice & Cora ,314,7900,1966,9,17,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Billie ,263,0,1967,7,9,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Diana ,27,0,1967,10,28,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,22,0,1968,7,28,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,0,0,1968,9,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,102,0,1968,8,0,JPN ,Japan ,East Asia ,Asia 
+Storm , ,72,0,1969,7,7,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,135,0,1971,8,5,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Helen ,50,0,1972,9,16,JPN ,Japan ,East Asia ,Asia 
+Storm , ,101,0,1973,11,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,33,0,1974,7,6,JPN ,Japan ,East Asia ,Asia 
+Storm , ,108,400000,1974,7,11,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,143,0,1974,5,29,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Phyllis ,68,505000,1975,8,15,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Fran ,169,800000,1976,9,8,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Vera ,16,0,1977,7,31,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Babe ,16,0,1977,9,12,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Irma ,6,0,1978,9,15,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Tip ,71,0,1979,10,20,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Orchid ,7,0,1980,9,11,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Phyllis ,7,0,1981,8,6,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Thad ,40,0,1981,8,23,JPN ,Japan ,East Asia ,Asia 
+Storm , ,33,0,1981,1,8,JPN ,Japan ,East Asia ,Asia 
+Storm , ,83,0,1981,2,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Bess ,80,137000,1982,8,2,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Ellis ,12,18000,1982,8,25,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Judy ,26,57000,1982,9,2,JPN ,Japan ,East Asia ,Asia 
+Storm , ,100,0,1982,7,3,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Forest ,44,0,1983,9,28,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Irma ,19,0,1985,7,1,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Pat ,30,99500,1985,9,1,JPN ,Japan ,East Asia ,Asia 
+Winter , ,0,0,1986,4,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Sarah ,17,200000,1986,8,4,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Kelly ,8,0,1987,10,16,JPN ,Japan ,East Asia ,Asia 
+Typhoon , ,15,0,1989,8,0,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Sarah ,0,0,1989,9,10,JPN ,Japan ,East Asia ,Asia 
+Tornado , ,0,13000,1990,12,12,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Flo ,40,269900,1990,9,17,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Gladys ,10,0,1991,8,20,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Caitlin ,0,81500,1991,7,26,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Kinna ,6,0,1991,9,14,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Luke ,18,0,1991,9,19,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Mireille (n°19) ,66,10000000,1991,9,27,JPN ,Japan ,East Asia ,Asia 
+Winter , ,0,0,1992,1,31,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Yancy ,11,0,1992,9,3,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Yancy ,48,129000,1993,9,5,JPN ,Japan ,East Asia ,Asia 
+Winter , ,18,0,1993,5,5,JPN ,Japan ,East Asia ,Asia 
+Winter , ,0,0,1994,2,12,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Kirk ,6,0,1996,8,14,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Oliwa ,4,0,1997,9,16,JPN ,Japan ,East Asia ,Asia 
+Winter , ,1,0,1998,1,9,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Rex ,14,0,1998,8,27,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Vicky ,12,0,1998,9,22,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Zeb ,12,0,1998,10,18,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Stella ,2,0,1998,9,18,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Bart ,26,5000000,1999,9,22,JPN ,Japan ,East Asia ,Asia 
+Storm , ,0,350000,2000,5,24,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Kirogi ,2,0,2000,7,8,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Saomai ,9,10000,2000,9,11,JPN ,Japan ,East Asia ,Asia 
+Winter , ,5,0,2001,1,20,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Pabuk ,9,800000,2001,8,21,JPN ,Japan ,East Asia ,Asia 
+Storm , ,1,0,2001,6,20,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Danas ,7,500000,2001,9,10,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Halong ,0,0,2002,7,15,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Chata'an ,5,0,2002,7,5,JPN ,Japan ,East Asia ,Asia 
+Winter , ,0,0,2002,12,9,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Etau ,20,0,2003,8,8,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Maemi ,1,0,2003,9,12,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Dianmu ,6,0,2004,6,21,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Megi ,11,0,2004,8,17,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Aere ,2,0,2004,8,23,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Chaba ,16,2000000,2004,8,30,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Songda ,41,6000000,2004,9,5,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Meari ,25,0,2004,9,26,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Ma-on ,11,603000,2004,10,4,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Tokage ,89,2300000,2004,10,20,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Mawar ,3,0,2005,8,25,JPN ,Japan ,East Asia ,Asia 
+Typhoon ,Nabi ,27,36900,2005,9,4,JPN ,Japan ,East Asia ,Asia 
+Winter , ,100,0,2005,12,9,JPN ,Japan ,East Asia ,Asia 
+Winter , ,2,0,1991,12,12,JOR ,Jordan ,West Asia ,Asia 
+Winter , ,9,0,2000,1,24,JOR ,Jordan ,West Asia ,Asia 
+Storm , ,5,0,2002,12,20,JOR ,Jordan ,West Asia ,Asia 
+Storm , ,112,3000,1995,12,20,KAZ ,Kazakhstan ,Russian Federation ,Asia 
+Storm , ,50,0,1988,4,0,KEN ,Kenya ,East Africa ,Africa 
+Cyclone ,Bebe ,3,0,1972,10,21,KIR ,Kiribati ,Oceania ,Oceania 
+Typhoon ,Robyn ,6,0,1993,8,8,PRK ,Korea Dem P Rep ,East Asia ,Asia 
+Typhoon ,Prapiroon ('12') ,46,6000000,2000,8,31,PRK ,Korea Dem P Rep ,East Asia ,Asia 
+Typhoon ,Rusa ,3,0,2002,8,31,PRK ,Korea Dem P Rep ,East Asia ,Asia 
+Typhoon , ,1104,0,1936,8,28,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon , ,238,0,1957,7,0,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Sarah ,432,0,1959,9,17,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,210,1000,1964,9,13,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,18,3000,1968,10,24,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,85,0,1969,8,6,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,39,5100,1970,7,3,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,64,0,1971,7,27,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,45,0,1971,7,0,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Carmen ,0,19000,1978,8,0,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Judy ,115,40000,1979,8,26,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon , ,150,0,1980,7,0,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Orchid ,15,7220,1980,9,15,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Agnes ,113,134000,1981,8,31,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Cecil ,63,30000,1982,8,14,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Ellis ,5,0,1982,8,27,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Brenda ,57,14000,1985,10,5,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Vera ,33,10900,1986,8,30,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Thelma ,483,325000,1987,7,16,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Vernon ,136,200000,1987,7,26,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Judy ,109,176500,1989,7,24,KOR ,Korea Rep ,East Asia ,Asia 
+Winter , ,27,6000,1990,2,1,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Gladys ,100,519500,1991,8,23,KOR ,Korea Rep ,East Asia ,Asia 
+Cyclone ,Ted ,0,0,1992,9,22,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,32,29393,1993,6,0,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Brendan ,28,8000,1994,8,0,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Faye ,41,140000,1995,7,23,KOR ,Korea Rep ,East Asia ,Asia 
+Winter , ,26,0,1998,1,16,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,19,0,1998,3,20,KOR ,Korea Rep ,East Asia ,Asia 
+Storm ,Yanni ,55,25900,1998,9,28,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Bart ,4,4268,1999,9,22,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Prapiroon (Typhoon n°12) ,25,11300,2000,8,31,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Saomai ,8,71000,2000,9,16,KOR ,Korea Rep ,East Asia ,Asia 
+Winter , ,11,290000,2001,1,8,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,16,0,2002,7,13,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Rusa ,80,215000,2002,8,31,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Maemi ,130,5500000,2003,9,12,KOR ,Korea Rep ,East Asia ,Asia 
+Winter , ,0,570000,2004,3,5,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Dianmu ,6,0,2004,6,18,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Megi ,8,0,2004,8,19,KOR ,Korea Rep ,East Asia ,Asia 
+Typhoon ,Nabi ,5,0,2005,9,8,KOR ,Korea Rep ,East Asia ,Asia 
+Storm , ,0,150,1991,0,0,LAO ,Lao P Dem Rep ,South-east Asia ,Asia 
+Typhoon ,Zeke & Fred ,22,3650,1992,7,10,LAO ,Lao P Dem Rep ,South-east Asia ,Asia 
+Storm ,Lewis & Winona ,8,302151,1993,7,0,LAO ,Lao P Dem Rep ,South-east Asia ,Asia 
+Typhoon , ,26,0,1995,8,1,LAO ,Lao P Dem Rep ,South-east Asia ,Asia 
+Storm , ,0,0,2005,1,9,LVA ,Latvia ,Russian Federation ,Europe 
+Winter , ,25,155000,1992,2,1,LBN ,Lebanon ,West Asia ,Asia 
+Storm , ,0,0,2002,12,20,LBN ,Lebanon ,West Asia ,Asia 
+Storm , ,0,0,1989,5,0,LSO ,Lesotho ,Southern Africa ,Africa 
+Storm , ,0,0,1996,11,8,LSO ,Lesotho ,Southern Africa ,Africa 
+Storm , ,0,0,1996,12,6,LSO ,Lesotho ,Southern Africa ,Africa 
+Storm , ,0,0,2001,12,19,LSO ,Lesotho ,Southern Africa ,Africa 
+Storm , ,1,0,2001,12,0,LSO ,Lesotho ,Southern Africa ,Africa 
+Storm , ,0,0,1995,8,11,LBR ,Liberia ,West Africa ,Africa 
+Storm , ,6,4600,1993,1,15,LTU ,Lithuania ,Russian Federation ,Europe 
+Typhoon ,Koryn ,0,0,1993,6,27,MAC ,Macau ,East Asia ,Asia 
+Typhoon ,Tasha ,0,0,1993,8,20,MAC ,Macau ,East Asia ,Asia 
+Storm ,Becky ,0,0,1993,9,17,MAC ,Macau ,East Asia ,Asia 
+Typhoon ,Dot ,0,0,1993,9,26,MAC ,Macau ,East Asia ,Asia 
+Winter , ,1,0,2005,1,0,MKD ,Macedonia FRY ,Rest of Europe ,Europe 
+Cyclone ,Georgette ,29,3100,1968,1,0,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Dany ,81,5000,1969,2,5,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Jane ,70,11400,1970,2,23,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Eugenie ,91,12420,1972,2,14,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Deborah & Ines ,7,0,1975,1,0,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone , ,16,17000,1976,1,10,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Emilie ,10,350000,1977,2,1,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Angele ,70,29000,1978,12,28,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone , ,107,250000,1981,12,20,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Benedic; Electre; Frida; Justine ,100,250000,1982,3,24,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone , ,42,25000,1983,12,10,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Kamisy ,68,250000,1984,4,9,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Honorinina ,99,150000,1986,3,15,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Alibera ,46,0,1989,12,31,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Cynthia ,36,0,1991,2,16,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Daisy; Geralda ,200,10000,1994,1,13,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Nadya ,12,0,1994,3,23,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Litanne ,0,0,1994,3,16,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Bonita ,9,0,1996,1,10,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Gretelle ,140,0,1997,1,24,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Josie ,34,0,1997,2,11,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Eline; Gloria ,130,0,2000,2,17,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Hudah ,23,0,2000,4,2,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Cyprien ,2,181,2002,1,2,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Hary ,1,0,2002,3,9,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Kesiny ,20,0,2002,5,9,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Fari ,0,0,2003,1,29,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Manou ,89,0,2003,5,8,MDG ,Madagascar ,East Africa ,Africa 
+Tropical storm ,Cela ,0,0,2003,12,9,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Elita ,32,0,2004,1,26,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Galifo ,363,250000,2004,3,7,MDG ,Madagascar ,East Africa ,Africa 
+Cyclone ,Ernest ,80,0,2005,1,22,MDG ,Madagascar ,East Africa ,Africa 
+Storm , ,11,0,2005,12,17,MWI ,Malawi ,East Africa ,Africa 
+Storm , ,21,0,1968,1,7,MYS ,Malaysia ,South-east Asia ,Asia 
+Typhoon ,Greg ,270,0,1996,12,26,MYS ,Malaysia ,South-east Asia ,Asia 
+Storm , ,0,0,2000,9,27,MYS ,Malaysia ,South-east Asia ,Asia 
+Storm , ,2,0,2002,3,30,MYS ,Malaysia ,South-east Asia ,Asia 
+Storm , ,0,0,2004,7,16,MYS ,Malaysia ,South-east Asia ,Asia 
+Storm , ,1,0,2004,11,6,MYS ,Malaysia ,South-east Asia ,Asia 
+Storm , ,0,0,1991,5,0,MDV ,Maldives ,South Asia ,Asia 
+Hurricane ,Zelda ,0,0,1991,11,28,MHL ,Marshall Is ,Oceania ,Oceania 
+Hurricane ,Abby ,0,0,1960,7,10,MTQ ,Martinique ,Caribbean ,Americas 
+Hurricane ,Edith ,10,40000,1963,9,25,MTQ ,Martinique ,Caribbean ,Americas 
+Hurricane ,Beulah ,15,0,1967,9,7,MTQ ,Martinique ,Caribbean ,Americas 
+Hurricane ,Dorothy ,45,31000,1970,8,21,MTQ ,Martinique ,Caribbean ,Americas 
+Hurricane ,David ,0,50000,1979,8,0,MTQ ,Martinique ,Caribbean ,Americas 
+Hurricane ,Allen ,0,68000,1980,8,5,MTQ ,Martinique ,Caribbean ,Americas 
+Hurricane ,Hugo ,0,0,1989,9,17,MTQ ,Martinique ,Caribbean ,Americas 
+Hurricane ,Klaus ,8,0,1990,10,4,MTQ ,Martinique ,Caribbean ,Americas 
+Tropical storm ,Cindy ,2,0,1993,8,15,MTQ ,Martinique ,Caribbean ,Americas 
+Hurricane ,Lenny ,0,0,1999,11,19,MTQ ,Martinique ,Caribbean ,Americas 
+Storm , ,4,0,1991,6,2,MRT ,Mauritania ,West Africa ,Africa 
+Tornado , ,1,0,1999,10,16,MRT ,Mauritania ,West Africa ,Africa 
+Storm , ,42,0,1960,2,0,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Carmen; Monica ,0,5000,1967,12,25,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Fabienne ,2,0,1972,2,17,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Gervaise ,9,200000,1975,2,6,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Celine ,0,0,1979,2,0,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Claudette ,5,175000,1979,12,22,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Damia ,0,650,1982,1,16,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Frida ,0,323,1982,2,0,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Andy ,1,0,1983,12,8,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Haja ,0,0,1984,2,7,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Ditra ,0,0,1985,1,29,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Firinga ,1,60000,1989,1,29,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Bella ,0,0,1991,1,25,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Hollanda; Ivy ,2,135400,1994,2,10,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Daniella ,3,0,1996,12,9,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Davina ,0,0,1999,3,10,MUS ,Mauritius ,East Africa ,Africa 
+Cyclone ,Dina ,3,100000,2002,1,22,MUS ,Mauritius ,East Africa ,Africa 
+Hurricane , ,50,0,1951,8,17,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Hilda ,300,0,1955,9,19,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Janet ,500,40000,1955,9,28,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Beulah; Manzanillo ,960,20000,1959,10,27,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Tara ,436,0,1961,11,12,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Inez ,14,24000,1966,10,7,MEX ,Mexico ,Central America ,Americas 
+Winter , ,34,0,1967,1,12,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Katrina; Beulah; Fern ,77,184000,1967,8,0,MEX ,Mexico ,Central America ,Americas 
+Storm , ,58,0,1969,8,14,MEX ,Mexico ,Central America ,Americas 
+Tropical storm , ,17,0,1971,6,16,MEX ,Mexico ,Central America ,Americas 
+Storm , ,13,0,1974,6,17,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Olivia ,29,0,1975,10,24,MEX ,Mexico ,Central America ,Americas 
+Storm , ,120,0,1976,7,15,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Liza ,600,100000,1976,10,1,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Anita ,10,0,1977,9,2,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,St. Lidia ,100,40000,1981,10,7,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Paul ,225,82400,1982,9,30,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Tico ,135,0,1983,10,20,MEX ,Mexico ,Central America ,Americas 
+Winter , ,140,0,1983,12,0,MEX ,Mexico ,Central America ,Americas 
+Tropical storm , ,4,0,1984,9,0,MEX ,Mexico ,Central America ,Americas 
+Storm , ,0,250000,1988,1,17,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Gilbert ,240,76000,1988,9,14,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Debby ,48,0,1988,9,4,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Diana ,38,90700,1990,8,8,MEX ,Mexico ,Central America ,Americas 
+Storm , ,13,0,1991,9,14,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Lester ,3,0,1992,8,23,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Calvin ,30,0,1993,7,1,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Arlene; Beatriz ,7,1670000,1993,6,22,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Irwin ,0,0,1993,8,23,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Lidia ,1,0,1993,9,10,MEX ,Mexico ,Central America ,Americas 
+Storm ,Felix ,17,0,1995,8,8,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Henriette ,0,0,1995,9,5,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Ismael ,105,26000,1995,9,14,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Opal ,19,124700,1995,9,27,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Roxane ,29,241000,1995,10,10,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Alma; Boris ,7,0,1996,6,23,MEX ,Mexico ,Central America ,Americas 
+Storm ,Elida ,6,0,1996,8,31,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Fausto ,1,0,1996,9,14,MEX ,Mexico ,Central America ,Americas 
+Storm ,Olaf ,12,0,1997,9,27,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Pauline ,230,447800,1997,10,8,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Rick ,0,0,1997,11,11,MEX ,Mexico ,Central America ,Americas 
+Storm , ,4,0,1998,2,24,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Isis ,2,0,1998,9,2,MEX ,Mexico ,Central America ,Americas 
+Storm ,Madeline & Lester ,240,0,1998,9,4,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Greg ,9,0,1999,9,6,MEX ,Mexico ,Central America ,Americas 
+Storm ,Norman ,8,0,2000,9,21,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Keith ,23,0,2000,9,29,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Dalila ,0,0,2001,7,25,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Juliette ,3,400000,2001,9,24,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Lorena ,0,0,2001,10,3,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Chantal ,0,0,2001,8,21,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Isidore ,4,0,2002,9,20,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Julio ,0,0,2002,9,25,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Kenna ,1,0,2002,10,25,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Marty ,2,100000,2003,9,22,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Ignacio ,2,0,2003,8,24,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Earl ,20,0,2004,8,15,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Emily ,2,26745,2005,7,18,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Bret ,2,0,2005,6,29,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Stan ,15,0,2005,10,1,MEX ,Mexico ,Central America ,Americas 
+Hurricane ,Wilma ,7,0,2005,10,19,MEX ,Mexico ,Central America ,Americas 
+Tropical storm ,Nina ,5,6000,1987,11,21,FSM ,Micronesia Fed States ,Oceania ,Oceania 
+Typhoon ,Mitag ,0,0,2002,3,3,FSM ,Micronesia Fed States ,Oceania ,Oceania 
+Tropical storm ,Chata'an ,47,0,2002,7,1,FSM ,Micronesia Fed States ,Oceania ,Oceania 
+Typhoon ,Lupit ,0,0,2003,11,21,FSM ,Micronesia Fed States ,Oceania ,Oceania 
+Typhoon ,Sudal ,1,0,2004,4,9,FSM ,Micronesia Fed States ,Oceania ,Oceania 
+Storm , ,3,0,1994,11,11,MDA ,Moldova Rep ,Russian Federation ,Europe 
+Storm , ,0,31600,2000,11,26,MDA ,Moldova Rep ,Russian Federation ,Europe 
+Winter , ,36,0,1990,4,21,MNG ,Mongolia ,East Asia ,Asia 
+Winter , ,6,0,1991,4,21,MNG ,Mongolia ,East Asia ,Asia 
+Storm , ,7,10000,1993,3,14,MNG ,Mongolia ,East Asia ,Asia 
+Winter , ,4,80000,2000,1,0,MNG ,Mongolia ,East Asia ,Asia 
+Winter , ,19,0,2000,12,0,MNG ,Mongolia ,East Asia ,Asia 
+Winter , ,16,0,2001,4,7,MNG ,Mongolia ,East Asia ,Asia 
+Winter , ,0,0,2002,1,0,MNG ,Mongolia ,East Asia ,Asia 
+Winter ,Dzud ,3,0,2002,12,0,MNG ,Mongolia ,East Asia ,Asia 
+Hurricane , ,0,0,1928,9,12,MSR ,Montserrat ,Caribbean ,Americas 
+Hurricane ,Hugo ,11,240000,1989,9,17,MSR ,Montserrat ,Caribbean ,Americas 
+Hurricane ,Gustav ,0,0,1990,8,27,MSR ,Montserrat ,Caribbean ,Americas 
+Storm , ,14,0,1996,6,16,MAR ,Morocco ,North Africa ,Africa 
+Cyclone , ,107,0,1956,4,0,MOZ ,Mozambique ,East Africa ,Africa 
+Storm , ,3,0,1977,10,22,MOZ ,Mozambique ,East Africa ,Africa 
+Cyclone ,Angele ,4,0,1978,12,23,MOZ ,Mozambique ,East Africa ,Africa 
+Cyclone ,Domoina ,109,75000,1984,1,28,MOZ ,Mozambique ,East Africa ,Africa 
+Storm , ,0,0,1985,3,26,MOZ ,Mozambique ,East Africa ,Africa 
+Cyclone ,Filao ,100,0,1988,3,1,MOZ ,Mozambique ,East Africa ,Africa 
+Cyclone ,Nadya ,240,0,1994,3,26,MOZ ,Mozambique ,East Africa ,Africa 
+Cyclone ,Hudah ,1,0,2000,4,2,MOZ ,Mozambique ,East Africa ,Africa 
+Storm , ,9,0,2000,11,18,MOZ ,Mozambique ,East Africa ,Africa 
+Storm , ,5,0,2000,11,26,MOZ ,Mozambique ,East Africa ,Africa 
+Storm , ,3,0,2002,10,25,MOZ ,Mozambique ,East Africa ,Africa 
+Cyclone ,Japhet ,11,0,2003,3,3,MOZ ,Mozambique ,East Africa ,Africa 
+Cyclone , ,600,0,1902,5,4,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,6,0,1923,5,7,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,2700,0,1926,5,19,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,1000,0,1936,4,21,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,0,0,1963,5,25,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,100,1000,1965,10,23,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,100,5000,1967,5,16,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,178,3200,1967,10,23,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,1070,2500,1968,5,10,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,200,0,1975,5,0,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,0,0,1978,5,17,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,11,0,1982,5,4,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,17,10000,1994,5,2,MMR ,Myanmar ,South-east Asia ,Asia 
+Cyclone , ,236,688,2004,5,19,MMR ,Myanmar ,South-east Asia ,Asia 
+Storm , ,1,0,1986,3,20,NPL ,Nepal ,South Asia ,Asia 
+Storm , ,0,3600,1986,5,30,NPL ,Nepal ,South Asia ,Asia 
+Storm , ,0,0,1987,0,0,NPL ,Nepal ,South Asia ,Asia 
+Storm , ,70,0,1988,3,12,NPL ,Nepal ,South Asia ,Asia 
+Storm , ,6,0,1991,3,0,NPL ,Nepal ,South Asia ,Asia 
+Storm , ,20,0,1996,5,12,NPL ,Nepal ,South Asia ,Asia 
+Storm , ,0,0,1972,11,12,NLD ,Netherlands ,European Union ,Europe 
+Winter ,Capella ,0,0,1976,1,2,NLD ,Netherlands ,European Union ,Europe 
+Storm , ,0,0,1984,11,21,NLD ,Netherlands ,European Union ,Europe 
+Storm , ,0,0,1985,8,0,NLD ,Netherlands ,European Union ,Europe 
+Winter , ,0,0,1986,10,20,NLD ,Netherlands ,European Union ,Europe 
+Winter ,Daria ,21,1790250,1990,1,0,NLD ,Netherlands ,European Union ,Europe 
+Storm , ,2,0,1997,6,8,NLD ,Netherlands ,European Union ,Europe 
+Storm ,Jeanett ,4,99464,2002,10,26,NLD ,Netherlands ,European Union ,Europe 
+Storm , ,0,0,2005,1,8,NLD ,Netherlands ,European Union ,Europe 
+Hurricane ,Alice ,0,0,1954,12,30,ANT ,Netherlands Antilles ,Caribbean ,Americas 
+Hurricane ,Donna ,0,0,1960,9,4,ANT ,Netherlands Antilles ,Caribbean ,Americas 
+Hurricane ,Hugo ,0,0,1989,9,17,ANT ,Netherlands Antilles ,Caribbean ,Americas 
+Hurricane ,Luis ,2,15151,1995,9,5,ANT ,Netherlands Antilles ,Caribbean ,Americas 
+Cyclone , ,3,0,1939,3,25,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone , ,2,0,1948,3,13,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone , ,2,0,1951,2,26,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone , ,1,0,1955,3,4,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Beatrice ,1,700,1959,1,18,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Brenda ,0,0,1968,1,19,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Colleen ,0,3000,1969,2,2,NCL ,New Caledonia ,Oceania ,Oceania 
+Tropical storm , ,3,0,1972,6,2,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Alison ,0,0,1975,3,7,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,David ,0,0,1976,1,16,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Cliff ,1,0,1981,2,11,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Freda ,0,0,1981,3,5,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Gyan ,3,200,1981,12,23,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Delilah ,2,0,1989,1,2,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Frank ,0,0,1999,2,23,NCL ,New Caledonia ,Oceania ,Oceania 
+Tropical storm ,Erica ,2,40000,2003,3,13,NCL ,New Caledonia ,Oceania ,Oceania 
+Cyclone ,Giselle ,50,0,1968,4,14,NZL ,New Zealand ,Oceania ,Oceania 
+Cyclone ,Bola ,6,0,1988,3,7,NZL ,New Zealand ,Oceania ,Oceania 
+Storm , ,0,0,1992,7,22,NZL ,New Zealand ,Oceania ,Oceania 
+Winter , ,0,51500,1992,8,24,NZL ,New Zealand ,Oceania ,Oceania 
+Storm ,Fergus ,1,0,1996,12,30,NZL ,New Zealand ,Oceania ,Oceania 
+Storm ,Drena ,3,0,1997,1,11,NZL ,New Zealand ,Oceania ,Oceania 
+Storm , ,0,0,2000,10,11,NZL ,New Zealand ,Oceania ,Oceania 
+Storm , ,2,3000,2003,10,3,NZL ,New Zealand ,Oceania ,Oceania 
+Tornado , ,0,10000,2005,3,10,NZL ,New Zealand ,Oceania ,Oceania 
+Hurricane ,Edith ,35,380,1971,9,9,NIC ,Nicaragua ,Central America ,Americas 
+Tropical storm ,Alleta ,71,356000,1982,5,23,NIC ,Nicaragua ,Central America ,Americas 
+Hurricane ,Joan ,130,400000,1988,10,22,NIC ,Nicaragua ,Central America ,Americas 
+Tropical storm ,Bret ,37,0,1993,8,10,NIC ,Nicaragua ,Central America ,Americas 
+Hurricane ,Cesar ,42,10000,1996,7,28,NIC ,Nicaragua ,Central America ,Americas 
+Hurricane ,Mitch ,3332,987700,1998,10,25,NIC ,Nicaragua ,Central America ,Americas 
+Hurricane ,Keith ,1,0,2000,9,29,NIC ,Nicaragua ,Central America ,Americas 
+Tornado , ,1,0,2000,10,9,NIC ,Nicaragua ,Central America ,Americas 
+Hurricane ,Michelle ,16,0,2001,11,1,NIC ,Nicaragua ,Central America ,Americas 
+Hurricane ,Isidore ,0,0,2002,9,22,NIC ,Nicaragua ,Central America ,Americas 
+Storm , ,0,0,2004,6,12,NIC ,Nicaragua ,Central America ,Americas 
+Hurricane ,Stan ,3,0,2005,10,1,NIC ,Nicaragua ,Central America ,Americas 
+Hurricane ,Beta ,4,0,2005,10,30,NIC ,Nicaragua ,Central America ,Americas 
+Storm , ,4,0,2002,8,12,NER ,Niger ,West Africa ,Africa 
+Storm , ,100,0,1978,3,22,NGA ,Nigeria ,West Africa ,Africa 
+Storm , ,100,0,1999,4,9,NGA ,Nigeria ,West Africa ,Africa 
+Cyclone , ,0,1500,1959,2,26,NIU ,Niue ,Oceania ,Oceania 
+Cyclone ,Corine ,0,41,1960,1,18,NIU ,Niue ,Oceania ,Oceania 
+Cyclone , ,0,0,1968,2,10,NIU ,Niue ,Oceania ,Oceania 
+Cyclone ,Ofa ,0,0,1990,2,4,NIU ,Niue ,Oceania ,Oceania 
+Cyclone ,Heta ,1,0,2004,1,6,NIU ,Niue ,Oceania ,Oceania 
+Storm , ,0,0,1992,1,1,NOR ,Norway ,Rest of Europe ,Europe 
+Hurricane , ,0,3000,1993,1,3,NOR ,Norway ,Rest of Europe ,Europe 
+Storm , ,0,0,2005,1,13,NOR ,Norway ,Rest of Europe ,Europe 
+Cyclone , ,105,0,1977,5,0,OMN ,Oman ,West Asia ,Asia 
+Storm , ,2,0,1977,6,12,OMN ,Oman ,West Asia ,Asia 
+Storm , ,26,0,1981,5,8,OMN ,Oman ,West Asia ,Asia 
+Tropical storm , ,7,0,2002,5,10,OMN ,Oman ,West Asia ,Asia 
+Storm , ,30,1000,2003,4,14,OMN ,Oman ,West Asia ,Asia 
+Storm , ,0,0,1926,9,1,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,0,0,1939,3,10,PAK ,Pakistan ,South Asia ,Asia 
+Cyclone , ,0,0,1944,7,27,PAK ,Pakistan ,South Asia ,Asia 
+Cyclone , ,450,4100,1964,6,12,PAK ,Pakistan ,South Asia ,Asia 
+Cyclone , ,10000,0,1965,12,15,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,18,0,1980,6,13,PAK ,Pakistan ,South Asia ,Asia 
+Tornado , ,56,0,1981,3,10,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,11,0,1986,5,31,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,36,0,1988,7,23,PAK ,Pakistan ,South Asia ,Asia 
+Cyclone , ,609,0,1993,11,14,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,10,0,1994,5,12,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,26,0,1994,7,4,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,19,0,1997,10,21,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,22,0,1997,6,27,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,12,0,1998,6,10,PAK ,Pakistan ,South Asia ,Asia 
+Cyclone ,2-A ,231,0,1999,5,20,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,27,0,1999,8,13,PAK ,Pakistan ,South Asia ,Asia 
+Tornado , ,4,0,2001,3,28,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,14,0,2002,5,27,PAK ,Pakistan ,South Asia ,Asia 
+Storm , ,51,0,2003,2,16,PAK ,Pakistan ,South Asia ,Asia 
+Winter , ,58,0,2005,1,0,PAK ,Pakistan ,South Asia ,Asia 
+Tornado , ,1,300,1964,9,13,PAN ,Panama ,Central America ,Americas 
+Hurricane ,Joan ,30,60000,1988,10,21,PAN ,Panama ,Central America ,Americas 
+Tornado , ,12,0,1992,7,6,PAN ,Panama ,Central America ,Americas 
+Hurricane ,Mitch ,0,0,1998,10,26,PAN ,Panama ,Central America ,Americas 
+Cyclone ,Hannah ,0,0,1972,5,0,PNG ,Papua New Guinea ,Oceania ,Oceania 
+Cyclone ,Adel ,15,1500,1993,5,14,PNG ,Papua New Guinea ,Oceania ,Oceania 
+Cyclone ,Justin ,32,0,1997,3,11,PNG ,Papua New Guinea ,Oceania ,Oceania 
+Storm , ,33,0,1997,9,5,PRY ,Paraguay ,South America ,Americas 
+Storm , ,0,0,2002,7,31,PRY ,Paraguay ,South America ,Americas 
+Storm , ,60,0,1962,2,0,PER ,Peru ,South America ,Americas 
+Winter , ,59,0,2002,7,0,PER ,Peru ,South America ,Americas 
+Typhoon , ,240,0,1905,9,21,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,0,10000,1912,10,0,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,0,0,1931,8,7,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,147,0,1932,4,29,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,0,0,1934,10,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,85,0,1934,11,10,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,517,0,1936,10,5,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,231,0,1937,11,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,305,0,1938,12,4,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,73,0,1940,12,3,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,260,0,1946,11,0,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Rena ,1000,0,1949,10,31,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Iris ,156,0,1951,4,24,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Wanda ,87,0,1951,11,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Amy ,569,0,1951,12,9,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Emma ,19,0,1952,6,28,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Trixy; Wilma ,995,50000,1952,10,16,PHL ,Philippines ,South-east Asia ,Asia 
+Winter , ,51,0,1955,1,0,PHL ,Philippines ,South-east Asia ,Asia 
+Storm , ,93,0,1955,11,0,PHL ,Philippines ,South-east Asia ,Asia 
+Storm , ,50,0,1956,7,0,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,79,0,1956,12,0,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,89,0,1957,7,0,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,29,0,1959,12,0,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Karen ,56,2000,1960,4,22,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Lucille ,234,0,1960,5,24,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Olive ,100,0,1960,6,23,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Kit ,150,0,1960,10,3,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Lola ,58,30000,1960,10,8,PHL ,Philippines ,South-east Asia ,Asia 
+Storm , ,33,0,1960,8,0,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,41,0,1962,7,0,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon , ,156,0,1962,8,0,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Carmen ,1,0,1963,8,10,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Winnie (Dading) ,56,8000,1964,6,29,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Louise ,580,35000,1964,11,19,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Aning ,18,1000,1966,12,28,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Emma (Welming) ,107,26500,1967,11,3,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Shirley ,0,0,1968,8,17,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Mamie; Nina; Ora ,50,9600,1968,11,22,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Viola ,11,0,1969,7,21,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Fran & Georgia ,137,2353,1970,8,31,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Joan; Kate ,1551,85500,1970,10,13,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Patsy ,786,97656,1970,11,19,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Oyang ,42,0,1970,9,4,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Katy (Pitang) ,0,598,1970,9,8,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Sening ,575,12110,1970,9,12,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Titang ,631,47397,1970,9,16,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Yoling ,80,12785,1970,11,17,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Wanda ,95,700,1971,4,22,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Dinah (Herming) ,57,590,1971,5,24,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Elaine ,37,0,1971,10,2,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Gloria ,57,0,1971,10,9,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Kit (Asiang) ,204,23000,1972,1,6,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ora ,131,15000,1972,6,23,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Therese (Undang) ,100,10000,1972,12,3,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Nora (Luming) ,26,2000,1973,10,4,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ruth ,50,5000,1973,10,14,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Vera ,270,0,1973,11,20,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Dinah (Bising) ,106,1000,1974,6,8,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ivy (Iliang) ,21,2000,1974,7,17,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Bess (Susang) ,26,9200,1974,10,10,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Carmen (Tering) ,13,11600,1974,10,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Elaine (Wening) ,23,21000,1974,10,25,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Gloria (Aning) ,3,3200,1974,11,4,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Irma (Bidang) ,11,7300,1974,11,23,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Lola (Auring) ,39,2161,1975,1,22,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Olga (Didang) ,274,85000,1976,5,17,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ruby (Huaning) ,3,84100,1976,6,22,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Nora (Aring) ,110,9326,1976,12,2,PHL ,Philippines ,South-east Asia ,Asia 
+Storm , ,0,0,1977,7,18,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Dinah (Openg) ,60,800,1977,9,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Kim (Unding) ,40,3600,1977,11,14,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Elang) ,4,0,1977,7,16,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Ibiang) ,0,25,1977,8,17,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Caroline ,0,0,1978,4,22,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Nina ,59,0,1978,10,9,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Rita (Kading) ,340,115000,1978,10,26,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Atang) ,66,33254,1978,4,18,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Heling) ,49,3515,1978,8,9,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Elaine (Miding) ,47,11809,1978,8,20,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Weling) ,32,13989,1978,9,24,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Yaning) ,24,11893,1978,10,7,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Garding) ,0,624,1978,12,14,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Cecil ,18,10000,1979,4,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Irving ,6,0,1979,8,12,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Mameng) ,24,6100,1979,8,9,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Pepang) ,8,9733,1979,9,16,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Yayang) ,6,617,1979,11,4,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Joe ,31,15400,1980,7,21,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Kim ,40,0,1980,7,25,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Betty (Aring) ,101,102300,1980,11,6,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Biring) ,4,402,1980,3,20,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Ditang) ,0,289,1980,5,7,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Nitang/Osang) ,36,0,1980,7,19,PHL ,Philippines ,South-east Asia ,Asia 
+Storm , ,214,2000,1981,7,0,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm , ,0,0,1981,7,4,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Clara ,55,6700,1981,9,20,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Irma (Anding) ,261,35000,1981,11,25,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Lee (Dinang) ,250,26000,1981,12,25,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Daling) ,210,7609,1981,6,28,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Rubing) ,5,12908,1981,8,16,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Yeyeng) ,4,167,1981,11,17,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Mamie ,117,0,1982,3,22,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Nelson (Bising) ,151,69000,1982,3,23,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Faye ,70,6500,1982,8,25,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Ruping) ,65,0,1982,9,5,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Nancy (Weling) ,96,32000,1982,10,12,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Akang) ,25,2400,1982,3,18,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Emang) ,10,4500,1982,7,12,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Norming) ,29,4200,1982,8,20,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,(Aning) ,0,5,1982,12,2,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Vera (Bebeng) ,115,1640,1983,7,14,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ellen (Herming) ,3,430,1983,9,3,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Orchid (Warling) ,8,2250,1983,11,17,PHL ,Philippines ,South-east Asia ,Asia 
+Tornado , ,2,0,1983,9,16,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,June (Maring) ,138,23000,1984,8,27,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Agnes (Undang) ,1079,96600,1984,11,3,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ike (Nitang) ,1399,216700,1984,9,1,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Warren (Reming) ,63,190,1984,10,23,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Dot (Saling) ,81,62373,1985,10,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Hal (Kuring) and Irma (Daling) ,100,20000,1985,6,20,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Tess (Miling) ,5,660,1985,9,1,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Peggy (Gading) ,109,30710,1986,7,9,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Wayne (Miding) ,23,13150,1986,9,2,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Dom (Oyang) ,22,1200,1986,10,6,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ellen (Daling) ,4,1400,1986,10,10,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Georgia (Ruping) ,2,36000,1986,10,17,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Narge (Aning) ,16,4000,1986,12,20,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Betty (Herming) ,85,98600,1987,8,8,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Lynn (Pedang) ,100,25000,1987,10,21,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Nina (Sisang) ,882,56000,1987,11,23,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Cart (Ising) ,5,5600,1987,8,13,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Phillis (Trining) ,22,8500,1987,12,14,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Susan (Biring) ,36,1000,1988,5,30,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Warren (Huaning) ,6,11516,1988,7,16,PHL ,Philippines ,South-east Asia ,Asia 
+Tornado , ,0,0,1988,10,21,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ruby (Unsang) ,420,240500,1988,10,21,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Skip (Yoning) ,289,149060,1988,11,5,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Tess (Welpring) ,41,940,1988,11,1,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Gordon (Goring) ,97,61000,1989,7,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Dan (Saling) ,58,59200,1989,10,9,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Elsie (Tasing) ,30,35400,1989,10,14,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Angela (Rubing) ,147,8000,1989,10,2,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Sarah (Openg) ,22,4300,1989,9,7,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Hunt (Unsing) ,11,325,1989,11,22,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Breda (Bining) ,13,2860,1989,5,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ofelia (Biring) & Percy ,64,0,1990,6,22,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Mike (Ruping) ,748,388500,1990,11,6,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Becky ,85,0,1990,8,28,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Abe ,85,0,1990,8,30,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Dot ,0,0,1990,9,8,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Brendan ,2,0,1991,7,22,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ruth (Trining) ,65,311000,1991,10,27,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Thelma (Uring) ,5956,100000,1991,11,5,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Zeke (Etang) ,47,0,1991,7,10,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Amy ,4,0,1991,7,18,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Caitlin ,9,0,1991,7,26,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Mike (Ruping) ,754,435000,1991,11,10,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Eli (Konsing) ,22,0,1992,7,11,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Gary ,42,0,1992,7,20,PHL ,Philippines ,South-east Asia ,Asia 
+Storm ,Gloring ,26,0,1992,8,16,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Omar (Lusing) ,11,0,1992,8,31,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Koryn (Goring) ,2,442,1993,6,26,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Flo (Kadiang) ,124,188000,1993,10,4,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Lola (Monang) and Manny (Naning) ,311,27000,1993,12,6,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Nell (Puring) ,52,17000,1993,12,26,PHL ,Philippines ,South-east Asia ,Asia 
+Storm , ,28,40000,1993,2,0,PHL ,Philippines ,South-east Asia ,Asia 
+Storm ,Akang ,62,2400,1994,1,6,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Owen (Bising) ,15,0,1994,4,9,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Yunya (Norming) ,11,37600,1994,7,19,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Tim (Iliang) ,14,0,1994,7,7,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Sharon (Gading) ,2,0,1994,6,23,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Caitlin (Pasing) ,11,0,1994,8,2,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Luke (Weling) ,7,3900,1994,9,10,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Oyang ,39,1700,1994,7,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Teresa (Katring) ,14,67400,1994,10,21,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Axel (Garding) ,35,0,1994,12,23,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Vanessa ,3,0,1994,7,7,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Kent (Gening) ,6,0,1995,8,28,PHL ,Philippines ,South-east Asia ,Asia 
+Storm ,Nina (Helming) ,185,709000,1995,9,4,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Sybil (Mameng) ,184,30000,1995,9,30,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Angela (Rosing) ,882,244000,1995,11,3,PHL ,Philippines ,South-east Asia ,Asia 
+Storm ,Zack (Pepang) ,146,2770,1995,10,28,PHL ,Philippines ,South-east Asia ,Asia 
+Storm ,Dan (Trining) ,11,0,1995,12,25,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Gloria ,26,46000,1996,7,15,PHL ,Philippines ,South-east Asia ,Asia 
+Storm ,Ernie ,12,4150,1996,11,6,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Winnie ,18,0,1997,8,19,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Bining ,30,2500,1997,5,27,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Ivan ,1,0,1997,10,20,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Vicky & Todd ,27,0,1998,9,18,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Zeb ,143,1150,1998,10,14,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Babs ,201,77100,1998,10,21,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Faith ,25,13000,1998,12,14,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Dan ,7,1800,1999,10,5,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Biring ,7,0,2000,5,18,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Kirogi ,11,0,2000,7,5,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Kai-Tak (Edeng) ,55,2600,2000,7,7,PHL ,Philippines ,South-east Asia ,Asia 
+Storm ,Maring ,3,0,2000,9,4,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Xangsane ,76,27450,2000,10,28,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Bebinca ,43,2600,2000,11,3,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Rumbia ,19,1400,2000,11,30,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Auring ,16,2100,2001,2,17,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Utor (Feria) ,223,37000,2001,7,0,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Lingling (Nanang) ,290,22700,2001,11,8,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Kajiki ,3,0,2001,12,5,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Chata'an ,33,1250,2002,7,6,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Halong ,62,5664,2002,7,13,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Rammasun ,7,0,2002,7,7,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Linfa (Chedeng) ,51,2292,2003,5,26,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Soudelor ,13,0,2003,6,15,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Imbudo ,21,26468,2003,7,19,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Nida ,31,1000,2004,5,16,PHL ,Philippines ,South-east Asia ,Asia 
+Tornado , ,7,0,2004,6,10,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Mindulle ,28,9700,2004,6,29,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Aere ,35,0,2004,8,25,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Muifa ,104,6000,2004,11,19,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Merbok (Violeta) ,29,0,2004,11,23,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Winnie ,1619,78200,2004,11,29,PHL ,Philippines ,South-east Asia ,Asia 
+Typhoon ,Nanmadol ,8,34000,2004,12,2,PHL ,Philippines ,South-east Asia ,Asia 
+Tropical storm ,Roke ,18,0,2005,3,17,PHL ,Philippines ,South-east Asia ,Asia 
+Tornado , ,82,0,1928,7,6,POL ,Poland ,Rest of Europe ,Europe 
+Storm , ,0,2000,1983,1,0,POL ,Poland ,Rest of Europe ,Europe 
+Storm , ,5,0,2002,1,28,POL ,Poland ,Rest of Europe ,Europe 
+Storm , ,2,0,2002,10,27,POL ,Poland ,Rest of Europe ,Europe 
+Storm , ,0,0,2005,1,7,POL ,Poland ,Rest of Europe ,Europe 
+Winter , ,0,0,2005,2,0,POL ,Poland ,Rest of Europe ,Europe 
+Storm , ,11,0,1973,1,17,PRT ,Portugal ,European Union ,Europe 
+Storm , ,0,0,1989,2,25,PRT ,Portugal ,European Union ,Europe 
+Storm , ,4,0,2000,12,6,PRT ,Portugal ,European Union ,Europe 
+Hurricane ,San Felipe ,300,50000,1928,9,0,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane ,San Ciprian ,225,30000,1932,9,0,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane , ,0,0,1960,9,0,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane , ,26,0,1975,9,0,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane , ,3,0,1979,8,0,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane ,Hugo ,0,0,1989,9,17,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane , ,0,0,1989,8,4,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane ,Luis ,0,0,1995,9,5,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane ,Hortense ,24,0,1996,9,10,PRI ,Puerto Rico ,Caribbean ,Americas 
+Tropical storm ,Odette ,0,0,2003,12,9,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane ,Frances ,0,0,2004,8,31,PRI ,Puerto Rico ,Caribbean ,Americas 
+Hurricane ,Jeanne ,2,0,2004,9,14,PRI ,Puerto Rico ,Caribbean ,Americas 
+Cyclone , ,165,0,1948,1,26,REU ,Reunion ,East Africa ,Africa 
+Cyclone ,Hyacinthe ,25,67000,1980,1,27,REU ,Reunion ,East Africa ,Africa 
+Cyclone ,Kamisy ,0,0,1984,4,0,REU ,Reunion ,East Africa ,Africa 
+Cyclone , ,10,2000,1987,2,13,REU ,Reunion ,East Africa ,Africa 
+Cyclone ,Firinga ,10,50000,1989,1,29,REU ,Reunion ,East Africa ,Africa 
+Cyclone ,Colina ,14,0,1993,1,18,REU ,Reunion ,East Africa ,Africa 
+Cyclone ,Connie ,2,0,2000,1,30,REU ,Reunion ,East Africa ,Africa 
+Cyclone ,Dina ,0,0,2002,1,0,REU ,Reunion ,East Africa ,Africa 
+Storm , ,6,0,1928,5,1,ROM ,Romania ,Rest of Europe ,Europe 
+Storm , ,3,0,1993,5,24,ROM ,Romania ,Rest of Europe ,Europe 
+Storm , ,0,0,1994,5,26,ROM ,Romania ,Rest of Europe ,Europe 
+Storm , ,12,0,1997,6,20,ROM ,Romania ,Rest of Europe ,Europe 
+Winter , ,14,0,2000,1,0,ROM ,Romania ,Rest of Europe ,Europe 
+Storm , ,1,0,2004,6,13,ROM ,Romania ,Rest of Europe ,Europe 
+Storm , ,7,0,2004,7,10,ROM ,Romania ,Rest of Europe ,Europe 
+Storm , ,4,0,2004,7,22,ROM ,Romania ,Rest of Europe ,Europe 
+Winter , ,3,0,2005,1,0,ROM ,Romania ,Rest of Europe ,Europe 
+Winter , ,12,5800,1994,3,26,RUS ,Russia ,Russian Federation ,Europe 
+Storm , ,52,0,1995,3,15,RUS ,Russia ,Russian Federation ,Europe 
+Storm , ,10,0,1995,6,29,RUS ,Russia ,Russian Federation ,Europe 
+Cyclone , ,3,0,1995,11,8,RUS ,Russia ,Russian Federation ,Europe 
+Winter , ,83,44000,1995,11,8,RUS ,Russia ,Russian Federation ,Europe 
+Storm , ,8,160000,1998,6,21,RUS ,Russia ,Russian Federation ,Europe 
+Cyclone , ,12,0,1999,9,1,RUS ,Russia ,Russian Federation ,Europe 
+Storm , ,0,17200,2001,5,15,RUS ,Russia ,Russian Federation ,Europe 
+Winter , ,8,0,2001,3,3,RUS ,Russia ,Russian Federation ,Europe 
+Storm , ,2,0,2002,1,29,RUS ,Russia ,Russian Federation ,Europe 
+Typhoon ,Hygos ,15,0,2002,10,2,RUS ,Russia ,Russian Federation ,Europe 
+Typhoon ,Etau ,0,0,2003,8,8,RUS ,Russia ,Russian Federation ,Europe 
+Storm , ,0,0,2004,6,9,RUS ,Russia ,Russian Federation ,Europe 
+Hurricane , ,6,6000,2004,7,22,RUS ,Russia ,Russian Federation ,Europe 
+Typhoon ,Songda ,3,0,2004,9,10,RUS ,Russia ,Russian Federation ,Europe 
+Storm , ,0,0,2005,1,7,RUS ,Russia ,Russian Federation ,Europe 
+Winter , ,0,0,2005,2,0,RUS ,Russia ,Russian Federation ,Europe 
+Storm , ,250,0,1964,6,13,WSM ,Samoa ,Oceania ,Oceania 
+Cyclone , ,10,600,1966,1,29,WSM ,Samoa ,Oceania ,Oceania 
+Cyclone , ,0,238,1968,2,10,WSM ,Samoa ,Oceania ,Oceania 
+Storm , ,0,31600,1983,7,0,WSM ,Samoa ,Oceania ,Oceania 
+Cyclone ,Fili & Gina ,0,15500,1989,1,6,WSM ,Samoa ,Oceania ,Oceania 
+Cyclone ,Ofa ,8,200000,1990,2,1,WSM ,Samoa ,Oceania ,Oceania 
+Cyclone ,Val & Wasa ,13,278000,1991,12,7,WSM ,Samoa ,Oceania ,Oceania 
+Cyclone ,Heta ,1,0,2004,1,5,WSM ,Samoa ,Oceania ,Oceania 
+Cyclone ,Olaf ,9,0,2005,2,16,WSM ,Samoa ,Oceania ,Oceania 
+Storm , ,0,0,1982,2,0,SAU ,Saudi Arabia ,West Asia ,Asia 
+Tornado , ,165,0,1999,8,21,SEN ,Senegal ,West Africa ,Africa 
+Tornado , ,22,0,1999,8,0,SEN ,Senegal ,West Africa ,Africa 
+Storm , ,2,0,2004,5,25,SEN ,Senegal ,West Africa ,Africa 
+Winter , ,0,0,2005,1,0,SRB ,Serbia Montenegro ,Rest of Europe ,Europe 
+Tropical storm , ,0,0,2002,9,5,SYC ,Seychelles ,East Africa ,Africa 
+Storm , ,1,3600,1975,6,21,SLE ,Sierra Leone ,West Africa ,Africa 
+Storm , ,60,0,1984,7,26,SLE ,Sierra Leone ,West Africa ,Africa 
+Storm , ,13,0,1999,6,0,SLE ,Sierra Leone ,West Africa ,Africa 
+Storm , ,2,383300,2004,11,19,SVK ,Slovakia ,Rest of Europe ,Europe 
+Cyclone , ,200,0,1956,0,0,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Angela ,3,0,1966,11,14,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Annie ,12,0,1967,11,11,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Becky ,1,0,1968,12,11,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Kerry ,2,0,1979,2,18,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Bernie ,0,0,1982,4,0,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Hina ,0,0,1985,3,14,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Namu ,101,20000,1986,5,19,SLB ,Solomon Is ,Oceania ,Oceania 
+Storm , ,0,0,1992,0,0,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Nina ,4,0,1993,1,4,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Zoe ,0,0,2002,12,28,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Beni ,0,0,2003,1,26,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone ,Gina ,0,0,2003,6,5,SLB ,Solomon Is ,Oceania ,Oceania 
+Cyclone , ,30,0,1994,11,0,SOM ,Somalia ,East Africa ,Africa 
+Storm , ,35,0,1952,11,0,ZAF ,South Africa ,Southern Africa ,Africa 
+Storm , ,10,0,1983,11,24,ZAF ,South Africa ,Southern Africa ,Africa 
+Cyclone ,Domoina; Imboa ,64,92000,1984,1,28,ZAF ,South Africa ,Southern Africa ,Africa 
+Storm , ,0,50000,1984,11,0,ZAF ,South Africa ,Southern Africa ,Africa 
+Tornado , ,0,393000,1990,3,20,ZAF ,South Africa ,Southern Africa ,Africa 
+Storm , ,7,0,1993,4,10,ZAF ,South Africa ,Southern Africa ,Africa 
+Tornado , ,2,0,1994,4,0,ZAF ,South Africa ,Southern Africa ,Africa 
+Tornado , ,18,165000,1998,12,16,ZAF ,South Africa ,Southern Africa ,Africa 
+Storm , ,21,0,1999,1,18,ZAF ,South Africa ,Southern Africa ,Africa 
+Tornado , ,5,25000,1999,8,29,ZAF ,South Africa ,Southern Africa ,Africa 
+Tornado , ,1,0,2000,2,2,ZAF ,South Africa ,Southern Africa ,Africa 
+Storm , ,14,0,2001,1,30,ZAF ,South Africa ,Southern Africa ,Africa 
+Tornado , ,0,0,2001,9,14,ZAF ,South Africa ,Southern Africa ,Africa 
+Storm , ,0,0,2002,1,8,ZAF ,South Africa ,Southern Africa ,Africa 
+Storm , ,0,41,2002,4,11,ZAF ,South Africa ,Southern Africa ,Africa 
+Winter , ,17,0,2002,7,15,ZAF ,South Africa ,Southern Africa ,Africa 
+Storm , ,0,0,2003,8,18,ZAF ,South Africa ,Southern Africa ,Africa 
+Storm , ,23,0,1923,7,10,SUN ,Soviet Union ,Russian Federation ,Europe 
+Storm , ,0,0,1981,8,6,SUN ,Soviet Union ,Russian Federation ,Europe 
+Storm , ,0,0,1983,6,0,SUN ,Soviet Union ,Russian Federation ,Europe 
+Tornado , ,400,0,1984,6,0,SUN ,Soviet Union ,Russian Federation ,Europe 
+Tornado , ,41,24000,1991,8,1,SUN ,Soviet Union ,Russian Federation ,Europe 
+Storm , ,0,55000,1971,8,0,ESP ,Spain ,European Union ,Europe 
+Storm , ,19,0,1973,1,17,ESP ,Spain ,European Union ,Europe 
+Storm , ,3,1000,1984,9,0,ESP ,Spain ,European Union ,Europe 
+Tropical storm ,Hortense ,6,1000000,1984,10,4,ESP ,Spain ,European Union ,Europe 
+Storm , ,0,8000,1987,8,24,ESP ,Spain ,European Union ,Europe 
+Storm , ,19,0,1989,2,26,ESP ,Spain ,European Union ,Europe 
+Storm , ,14,0,1989,9,4,ESP ,Spain ,European Union ,Europe 
+Winter , ,8,0,1990,12,11,ESP ,Spain ,European Union ,Europe 
+Storm , ,12,0,1994,4,2,ESP ,Spain ,European Union ,Europe 
+Storm , ,21,0,1997,11,6,ESP ,Spain ,European Union ,Europe 
+Storm ,Martin ,5,0,1999,12,27,ESP ,Spain ,European Union ,Europe 
+Storm , ,7,0,2000,12,5,ESP ,Spain ,European Union ,Europe 
+Storm , ,7,0,2000,12,29,ESP ,Spain ,European Union ,Europe 
+Storm , ,9,0,2001,11,10,ESP ,Spain ,European Union ,Europe 
+Cyclone , ,200,0,1957,12,25,LKA ,Sri Lanka ,South Asia ,Asia 
+Cyclone , ,206,37300,1964,12,22,LKA ,Sri Lanka ,South Asia ,Asia 
+Cyclone , ,740,100000,1978,11,24,LKA ,Sri Lanka ,South Asia ,Asia 
+Storm , ,0,0,1985,11,0,LKA ,Sri Lanka ,South Asia ,Asia 
+Cyclone ,04B ,5,0,2000,12,24,LKA ,Sri Lanka ,South Asia ,Asia 
+Storm , ,0,0,2001,5,23,SHN ,St Helena ,West Africa ,Africa 
+Hurricane , ,0,0,1928,9,13,KNA ,St Kitts and Nevis ,Caribbean ,Americas 
+Hurricane ,Alice ,0,0,1955,1,2,KNA ,St Kitts and Nevis ,Caribbean ,Americas 
+Hurricane ,Klaus ,0,0,1984,11,0,KNA ,St Kitts and Nevis ,Caribbean ,Americas 
+Hurricane ,Hugo ,1,46000,1989,9,17,KNA ,St Kitts and Nevis ,Caribbean ,Americas 
+Hurricane ,Gustav ,0,0,1990,8,27,KNA ,St Kitts and Nevis ,Caribbean ,Americas 
+Hurricane ,Luis ,0,197000,1995,9,5,KNA ,St Kitts and Nevis ,Caribbean ,Americas 
+Hurricane ,Georges ,5,0,1998,9,20,KNA ,St Kitts and Nevis ,Caribbean ,Americas 
+Hurricane ,Lenny ,0,41400,1999,11,17,KNA ,St Kitts and Nevis ,Caribbean ,Americas 
+Hurricane ,Abby ,0,0,1960,7,10,LCA ,St Lucia ,Caribbean ,Americas 
+Hurricane ,Edith ,10,3465,1963,9,25,LCA ,St Lucia ,Caribbean ,Americas 
+Hurricane ,Beulah ,0,3000,1967,9,7,LCA ,St Lucia ,Caribbean ,Americas 
+Hurricane ,Allen ,9,87990,1980,7,31,LCA ,St Lucia ,Caribbean ,Americas 
+Storm , ,0,1290,1983,9,0,LCA ,St Lucia ,Caribbean ,Americas 
+Tropical storm ,Danielle ,0,0,1986,9,8,LCA ,St Lucia ,Caribbean ,Americas 
+Hurricane ,Emily ,0,0,1987,9,0,LCA ,St Lucia ,Caribbean ,Americas 
+Hurricane ,Gilbert ,45,1000000,1988,9,11,LCA ,St Lucia ,Caribbean ,Americas 
+Tropical storm ,Debby ,4,0,1994,9,10,LCA ,St Lucia ,Caribbean ,Americas 
+Hurricane ,Lenny ,0,0,1999,11,17,LCA ,St Lucia ,Caribbean ,Americas 
+Hurricane ,Ivan ,0,0,2004,9,8,LCA ,St Lucia ,Caribbean ,Americas 
+Hurricane ,Janet ,122,0,1955,9,23,VCT ,St Vincent and The Grenadines ,Caribbean ,Americas 
+Tropical storm ,Beulah ,2,4500,1967,9,8,VCT ,St Vincent and The Grenadines ,Caribbean ,Americas 
+Hurricane , ,0,16300,1980,7,31,VCT ,St Vincent and The Grenadines ,Caribbean ,Americas 
+Hurricane ,Emily ,0,5300,1987,9,21,VCT ,St Vincent and The Grenadines ,Caribbean ,Americas 
+Hurricane ,Lenny ,0,0,1999,11,17,VCT ,St Vincent and The Grenadines ,Caribbean ,Americas 
+Hurricane ,Lili ,0,0,2002,9,24,VCT ,St Vincent and The Grenadines ,Caribbean ,Americas 
+Hurricane ,Ivan ,0,0,2004,9,8,VCT ,St Vincent and The Grenadines ,Caribbean ,Americas 
+Hurricane ,Emily ,0,0,2005,7,14,VCT ,St Vincent and the Grenadines ,Caribbean ,Americas 
+Storm , ,33,0,2002,9,27,SDN ,Sudan ,North Africa ,Africa 
+Cyclone ,Domoina ,53,54152,1984,1,28,SWZ ,Swaziland ,Southern Africa ,Africa 
+Storm , ,0,0,2005,1,23,SWZ ,Swaziland ,Southern Africa ,Africa 
+Winter ,Capella ,0,0,1976,1,2,SWE ,Sweden ,European Union ,Europe 
+Storm , ,1,0,2002,10,27,SWE ,Sweden ,European Union ,Europe 
+Storm , ,7,0,2005,1,7,SWE ,Sweden ,European Union ,Europe 
+Winter , ,0,0,1976,1,0,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,0,1000,1982,7,0,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,0,1000,1983,8,0,CHE ,Switzerland ,Rest of Europe ,Europe 
+Winter , ,0,0,1983,1,15,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,0,9600,1984,7,25,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,0,2000,1985,8,15,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,0,105000,1986,8,0,CHE ,Switzerland ,Rest of Europe ,Europe 
+Winter , ,0,0,1986,10,20,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,1,138900,1987,7,6,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,0,77800,1990,7,29,CHE ,Switzerland ,Rest of Europe ,Europe 
+Winter ,Daria ,4,190960,1990,1,0,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,0,1760,1993,5,19,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm ,Lothar ,11,362855,1999,12,26,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,1,0,2002,10,27,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,0,2949,2003,1,2,CHE ,Switzerland ,Rest of Europe ,Europe 
+Storm , ,27,0,2001,2,21,SYR ,Syrian Arab Rep ,West Asia ,Asia 
+Storm , ,5,0,2004,2,22,SYR ,Syrian Arab Rep ,West Asia ,Asia 
+Typhoon , ,1000,20000,1911,8,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon , ,1000,0,1924,8,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon , ,100,0,1951,9,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon , ,67,0,1953,11,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon , ,31,0,1958,7,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Ellen ,1046,50000,1959,8,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon , ,199,0,1960,8,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon , ,106,0,1961,9,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon , ,107,0,1962,8,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Dinah ,31,0,1965,6,10,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Mary ,24,0,1965,8,19,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Judy ,36,17322,1966,5,30,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Carla ,69,0,1967,10,17,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Elsie & Flossie ,194,88000,1969,9,25,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon , ,75,0,1969,10,0,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Thelma & Vera ,61,250000,1977,7,25,TWN ,Taiwan (China) ,East Asia ,Asia 
+Storm , ,26,0,1981,7,19,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Ellen ,82,0,1983,9,9,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Wayne ,52,405000,1986,8,22,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Abby ,13,80000,1986,9,19,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Lynn ,61,0,1987,10,24,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Sarah ,13,0,1989,9,11,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon , ,5,0,1990,6,23,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Dot ,0,0,1990,9,8,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Fred ,33,0,1991,8,15,TWN ,Taiwan (China) ,East Asia ,Asia 
+Tropical storm ,Polly ,8,35000,1992,8,29,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Doug ,16,232000,1994,8,8,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Gladys ,6,24000,1994,9,1,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Tim ,10,96300,1994,8,10,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Gloria ,20,200000,1996,7,27,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Winnie ,44,7900,1997,8,18,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Zeb ,11,0,1998,10,18,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Bilis ,14,135000,2000,8,22,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Xangsane ,89,62500,2000,11,1,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Chebi ,9,5000,2001,6,24,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Utor ,1,0,2001,7,6,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Toraji ,218,240000,2001,7,30,TWN ,Taiwan (China) ,East Asia ,Asia 
+Storm ,Trami ,5,0,2001,7,11,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Nari ,80,800000,2001,9,16,TWN ,Taiwan (China) ,East Asia ,Asia 
+Tropical storm ,Nakri ,7,0,2002,7,9,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Dujuan ,3,0,2003,9,2,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Mindulle ,28,29000,2004,6,29,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Aere ,32,0,2004,8,24,TWN ,Taiwan (China) ,East Asia ,Asia 
+Tropical storm ,Haima ,9,2710,2004,9,12,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Nock-ten ,7,0,2004,10,25,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Nanmadol ,3,0,2004,12,4,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Haitang ,8,40000,2005,7,18,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Talim ,3,0,2005,9,1,TWN ,Taiwan (China) ,East Asia ,Asia 
+Typhoon ,Longwang ,2,0,2005,10,2,TWN ,Taiwan (China) ,East Asia ,Asia 
+Hurricane , ,0,200,1999,1,1,TJK ,Tajikistan ,Russian Federation ,Asia 
+Storm , ,0,234,2001,6,16,TJK ,Tajikistan ,Russian Federation ,Asia 
+Cyclone , ,4,0,1994,4,23,TZA ,Tanzania Uni Rep ,East Africa ,Africa 
+Typhoon ,Harriet ,769,19000,1962,10,27,THA ,Thailand ,South-east Asia ,Asia 
+Storm , ,50,0,1978,5,0,THA ,Thailand ,South-east Asia ,Asia 
+Typhoon ,Kelly ,0,0,1981,7,6,THA ,Thailand ,South-east Asia ,Asia 
+Storm , ,55,13000,1981,12,0,THA ,Thailand ,South-east Asia ,Asia 
+Typhoon ,Gay ,458,452000,1989,11,3,THA ,Thailand ,South-east Asia ,Asia 
+Typhoon ,Ira ,36,50000,1990,10,2,THA ,Thailand ,South-east Asia ,Asia 
+Typhoon , ,38,8323,1991,8,17,THA ,Thailand ,South-east Asia ,Asia 
+Storm , ,0,0,1992,5,19,THA ,Thailand ,South-east Asia ,Asia 
+Typhoon ,Angela ,3,0,1992,10,16,THA ,Thailand ,South-east Asia ,Asia 
+Typhoon ,Colleen ,0,0,1992,10,17,THA ,Thailand ,South-east Asia ,Asia 
+Storm ,Forrest ,3,0,1992,11,12,THA ,Thailand ,South-east Asia ,Asia 
+Storm ,Lewis ,4,106900,1993,7,11,THA ,Thailand ,South-east Asia ,Asia 
+Storm ,Winona ,0,25070,1993,9,29,THA ,Thailand ,South-east Asia ,Asia 
+Tropical storm , ,0,0,1994,5,8,THA ,Thailand ,South-east Asia ,Asia 
+Tropical storm , ,27,0,1995,8,9,THA ,Thailand ,South-east Asia ,Asia 
+Typhoon ,Gloria & Frankie ,9,0,1996,8,21,THA ,Thailand ,South-east Asia ,Asia 
+Typhoon ,Kaemi ,2,0,2000,8,21,THA ,Thailand ,South-east Asia ,Asia 
+Storm , ,0,0,2001,6,27,THA ,Thailand ,South-east Asia ,Asia 
+Storm , ,0,0,2002,1,12,THA ,Thailand ,South-east Asia ,Asia 
+Storm , ,0,0,2002,4,23,THA ,Thailand ,South-east Asia ,Asia 
+Storm , ,0,0,2003,4,11,THA ,Thailand ,South-east Asia ,Asia 
+Storm , ,13,0,2004,5,20,THA ,Thailand ,South-east Asia ,Asia 
+Typhoon ,Chanthu ,1,0,2004,6,4,THA ,Thailand ,South-east Asia ,Asia 
+Storm , ,0,246,2005,5,21,THA ,Thailand ,South-east Asia ,Asia 
+Tropical storm ,Damrey ,10,0,2005,9,26,THA ,Thailand ,South-east Asia ,Asia 
+Tornado , ,0,200,1966,3,15,TGO ,Togo ,West Africa ,Africa 
+Cyclone , ,0,0,1914,1,0,TKL ,Tokelau ,Oceania ,Oceania 
+Cyclone , ,0,0,1925,12,0,TKL ,Tokelau ,Oceania ,Oceania 
+Cyclone , ,0,0,1966,1,29,TKL ,Tokelau ,Oceania ,Oceania 
+Storm , ,0,500,1987,2,27,TKL ,Tokelau ,Oceania ,Oceania 
+Cyclone ,Ofa ,0,2400,1990,2,0,TKL ,Tokelau ,Oceania ,Oceania 
+Cyclone ,Percy ,0,0,2005,2,28,TKL ,Tokelau ,Oceania ,Oceania 
+Cyclone , ,2,500,1961,3,16,TON ,Tonga ,Oceania ,Oceania 
+Cyclone ,Juliette ,3,500,1973,4,12,TON ,Tonga ,Oceania ,Oceania 
+Cyclone ,Ernie ,0,1100,1977,12,27,TON ,Tonga ,Oceania ,Oceania 
+Cyclone ,Isaac ,6,21200,1982,3,3,TON ,Tonga ,Oceania ,Oceania 
+Storm , ,1,1100,1982,5,30,TON ,Tonga ,Oceania ,Oceania 
+Cyclone ,Ofa ,1,2500,1990,2,4,TON ,Tonga ,Oceania ,Oceania 
+Cyclone ,Hina ,0,0,1997,3,16,TON ,Tonga ,Oceania ,Oceania 
+Cyclone ,Ron ,0,0,1998,1,7,TON ,Tonga ,Oceania ,Oceania 
+Cyclone ,Cora ,0,0,1998,12,26,TON ,Tonga ,Oceania ,Oceania 
+Cyclone ,Waka ,0,51300,2001,12,31,TON ,Tonga ,Oceania ,Oceania 
+Cyclone ,Heta ,0,0,2004,1,6,TON ,Tonga ,Oceania ,Oceania 
+Hurricane , ,13,3000,1933,6,27,TTO ,Trinidad and Tobago ,Caribbean ,Americas 
+Hurricane ,Flora ,24,30000,1963,9,30,TTO ,Trinidad and Tobago ,Caribbean ,Americas 
+Tropical storm ,Alma ,2,5000,1974,8,14,TTO ,Trinidad and Tobago ,Caribbean ,Americas 
+Tropical storm ,Arthur ,0,0,1990,7,25,TTO ,Trinidad and Tobago ,Caribbean ,Americas 
+Tropical storm ,Bret ,0,57,1993,7,7,TTO ,Trinidad and Tobago ,Caribbean ,Americas 
+Hurricane ,Ivan ,1,0,2004,9,9,TTO ,Trinidad and Tobago ,Caribbean ,Americas 
+Hurricane ,Emily ,0,0,2005,7,14,TTO ,Trinidad and Tobago ,Caribbean ,Americas 
+Storm , ,0,2200,1964,5,8,TUR ,Turkey ,Rest of Europe ,Europe 
+Winter , ,30,0,1972,2,4,TUR ,Turkey ,Rest of Europe ,Europe 
+Winter , ,1,0,1991,12,8,TUR ,Turkey ,Rest of Europe ,Europe 
+Storm , ,30,0,1994,10,19,TUR ,Turkey ,Rest of Europe ,Europe 
+Winter , ,4,0,2002,1,0,TUR ,Turkey ,Rest of Europe ,Europe 
+Winter , ,10,0,2002,12,20,TUR ,Turkey ,Rest of Europe ,Europe 
+Winter , ,8,0,2004,1,22,TUR ,Turkey ,Rest of Europe ,Europe 
+Tornado , ,3,0,2004,6,19,TUR ,Turkey ,Rest of Europe ,Europe 
+Winter , ,14,0,2004,11,21,TUR ,Turkey ,Rest of Europe ,Europe 
+Hurricane ,Kate ,0,5,1985,0,0,TCA ,Turks and Caicos Is ,Caribbean ,Americas 
+Tropical storm ,Arthur ,0,0,1990,7,27,TCA ,Turks and Caicos Is ,Caribbean ,Americas 
+Hurricane ,Frances ,0,0,2004,9,1,TCA ,Turks and Caicos Is ,Caribbean ,Americas 
+Cyclone ,Bebe ,6,0,1972,10,21,TUV ,Tuvalu ,Oceania ,Oceania 
+Storm , ,0,0,1984,12,26,TUV ,Tuvalu ,Oceania ,Oceania 
+Cyclone , ,0,0,1987,2,22,TUV ,Tuvalu ,Oceania ,Oceania 
+Cyclone ,Ofa ,0,0,1990,2,4,TUV ,Tuvalu ,Oceania ,Oceania 
+Cyclone ,Nina ,0,0,1993,1,3,TUV ,Tuvalu ,Oceania ,Oceania 
+Storm , ,0,0,2000,9,21,UGA ,Uganda ,East Africa ,Africa 
+Storm , ,0,0,2000,11,6,UGA ,Uganda ,East Africa ,Africa 
+Storm , ,0,0,2002,1,5,UGA ,Uganda ,East Africa ,Africa 
+Hurricane , ,0,1600,1992,11,19,UKR ,Ukraine ,Russian Federation ,Europe 
+Storm , ,2,0,2000,7,5,UKR ,Ukraine ,Russian Federation ,Europe 
+Storm , ,4,0,2000,7,25,UKR ,Ukraine ,Russian Federation ,Europe 
+Winter , ,4,120000,2000,11,27,UKR ,Ukraine ,Russian Federation ,Europe 
+Storm , ,4000,0,1952,12,4,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,20,2500,1968,1,14,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,0,0,1972,11,0,GBR ,United Kingdom ,European Union ,Europe 
+Winter , ,0,0,1976,1,0,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,12,0,1981,9,21,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,5,0,1983,2,0,GBR ,United Kingdom ,European Union ,Europe 
+Winter , ,22,81500,1984,1,24,GBR ,United Kingdom ,European Union ,Europe 
+Winter , ,0,0,1986,10,20,GBR ,United Kingdom ,European Union ,Europe 
+Winter , ,20,1700000,1987,10,15,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,13,0,1989,2,26,GBR ,United Kingdom ,European Union ,Europe 
+Winter , ,0,0,1990,12,9,GBR ,United Kingdom ,European Union ,Europe 
+Winter ,Daria ,85,4893350,1990,1,0,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,28,0,1991,1,5,GBR ,United Kingdom ,European Union ,Europe 
+Winter , ,0,600000,1995,12,23,GBR ,United Kingdom ,European Union ,Europe 
+Hurricane ,Lilli ,5,0,1996,10,29,GBR ,United Kingdom ,European Union ,Europe 
+Storm ,Cilly; Désirée et Fanny ,1,0,1998,1,4,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,8,0,1998,12,26,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,12,665400,1998,10,24,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,8,0,1999,12,25,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,12,290723,2000,10,28,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,4,0,2000,12,0,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,7,0,2002,1,28,GBR ,United Kingdom ,European Union ,Europe 
+Storm ,Jeanett ,7,77901,2002,10,26,GBR ,United Kingdom ,European Union ,Europe 
+Storm , ,5,500000,2005,1,7,GBR ,United Kingdom , , 
+Hurricane , ,6000,1000000,1900,9,8,USA ,United States ,North America ,Americas 
+Tornado , ,98,0,1903,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,164,0,1906,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,134,0,1906,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,350,0,1909,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,41,0,1909,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,30,0,1910,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,525,60000,1915,8,0,USA ,United States ,North America ,Americas 
+Hurricane , ,34,0,1918,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,500,25000,1919,9,0,USA ,United States ,North America ,Americas 
+Tornado , ,739,18000,1925,3,17,USA ,United States ,North America ,Americas 
+Hurricane , ,25,0,1926,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,243,73000,1926,9,0,USA ,United States ,North America ,Americas 
+Tornado , ,87,22000,1927,9,0,USA ,United States ,North America ,Americas 
+Hurricane , ,1836,25000,1928,9,0,USA ,United States ,North America ,Americas 
+Hurricane , ,40,0,1932,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,40,0,1933,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,408,6000,1935,9,0,USA ,United States ,North America ,Americas 
+Tornado , ,455,21000,1936,4,0,USA ,United States ,North America ,Americas 
+Hurricane , ,600,306000,1938,9,0,USA ,United States ,North America ,Americas 
+Hurricane , ,50,0,1940,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,390,100000,1944,9,0,USA ,United States ,North America ,Americas 
+Storm , ,43,0,1945,2,0,USA ,United States ,North America ,Americas 
+Storm , ,119,0,1945,4,0,USA ,United States ,North America ,Americas 
+Storm , ,34,0,1945,11,0,USA ,United States ,North America ,Americas 
+Storm , ,33,0,1946,1,0,USA ,United States ,North America ,Americas 
+Hurricane , ,51,100000,1947,9,0,USA ,United States ,North America ,Americas 
+Storm , ,167,0,1947,4,0,USA ,United States ,North America ,Americas 
+Storm , ,35,0,1947,6,0,USA ,United States ,North America ,Americas 
+Storm , ,55,0,1947,12,0,USA ,United States ,North America ,Americas 
+Storm , ,42,0,1948,3,0,USA ,United States ,North America ,Americas 
+Storm , ,59,0,1949,1,0,USA ,United States ,North America ,Americas 
+Storm , ,28,0,1949,3,0,USA ,United States ,North America ,Americas 
+Winter , ,200,100000,1950,11,0,USA ,United States ,North America ,Americas 
+Storm , ,34,0,1950,1,0,USA ,United States ,North America ,Americas 
+Storm , ,38,0,1950,2,0,USA ,United States ,North America ,Americas 
+Storm , ,229,0,1952,3,21,USA ,United States ,North America ,Americas 
+Storm , ,50,0,1952,2,0,USA ,United States ,North America ,Americas 
+Tornado , ,92,52000,1953,6,0,USA ,United States ,North America ,Americas 
+Storm , ,30,0,1953,1,0,USA ,United States ,North America ,Americas 
+Storm , ,41,0,1953,4,0,USA ,United States ,North America ,Americas 
+Storm , ,125,0,1953,5,0,USA ,United States ,North America ,Americas 
+Storm , ,142,0,1953,6,0,USA ,United States ,North America ,Americas 
+Storm , ,38,0,1953,12,0,USA ,United States ,North America ,Americas 
+Hurricane ,Carol ,60,450000,1954,8,0,USA ,United States ,North America ,Americas 
+Hurricane ,Hazel ,95,281000,1954,10,0,USA ,United States ,North America ,Americas 
+Hurricane , ,68,0,1954,9,0,USA ,United States ,North America ,Americas 
+Hurricane , ,25,0,1955,0,0,USA ,United States ,North America ,Americas 
+Hurricane ,Diane ,184,832000,1955,8,16,USA ,United States ,North America ,Americas 
+Storm , ,31,0,1955,2,0,USA ,United States ,North America ,Americas 
+Storm , ,125,0,1955,5,0,USA ,United States ,North America ,Americas 
+Storm , ,162,0,1956,3,0,USA ,United States ,North America ,Americas 
+Storm , ,45,0,1956,4,0,USA ,United States ,North America ,Americas 
+Storm , ,25,0,1956,12,0,USA ,United States ,North America ,Americas 
+Hurricane ,Audrey ,390,150000,1957,6,26,USA ,United States ,North America ,Americas 
+Storm , ,40,0,1957,3,0,USA ,United States ,North America ,Americas 
+Storm , ,39,0,1957,5,0,USA ,United States ,North America ,Americas 
+Storm , ,56,0,1958,3,0,USA ,United States ,North America ,Americas 
+Storm , ,30,0,1958,6,0,USA ,United States ,North America ,Americas 
+Storm , ,53,0,1958,11,0,USA ,United States ,North America ,Americas 
+Storm , ,71,0,1959,1,0,USA ,United States ,North America ,Americas 
+Hurricane ,Donna ,50,387000,1960,9,9,USA ,United States ,North America ,Americas 
+Hurricane ,Carla ,46,408000,1961,9,11,USA ,United States ,North America ,Americas 
+Storm , ,100,0,1961,2,0,USA ,United States ,North America ,Americas 
+Winter , ,33,200000,1962,3,6,USA ,United States ,North America ,Americas 
+Winter , ,13,150000,1962,10,12,USA ,United States ,North America ,Americas 
+Storm , ,112,0,1962,12,0,USA ,United States ,North America ,Americas 
+Storm , ,26,0,1963,1,0,USA ,United States ,North America ,Americas 
+Tornado , ,203,0,1963,0,0,USA ,United States ,North America ,Americas 
+Hurricane , ,38,0,1964,10,0,USA ,United States ,North America ,Americas 
+Hurricane ,Dora ,5,250000,1964,9,9,USA ,United States ,North America ,Americas 
+Storm , ,140,0,1964,1,0,USA ,United States ,North America ,Americas 
+Tornado , ,257,190000,1965,4,11,USA ,United States ,North America ,Americas 
+Hurricane ,Betsy ,299,1420000,1965,9,7,USA ,United States ,North America ,Americas 
+Tornado , ,26,100000,1966,6,8,USA ,United States ,North America ,Americas 
+Storm , ,166,0,1966,1,0,USA ,United States ,North America ,Americas 
+Storm , ,61,0,1966,3,0,USA ,United States ,North America ,Americas 
+Storm , ,37,0,1966,11,0,USA ,United States ,North America ,Americas 
+Hurricane ,Beulah ,15,200000,1967,9,19,USA ,United States ,North America ,Americas 
+Storm , ,80,0,1967,1,0,USA ,United States ,North America ,Americas 
+Storm , ,74,0,1967,2,0,USA ,United States ,North America ,Americas 
+Storm , ,56,0,1967,4,0,USA ,United States ,North America ,Americas 
+Storm , ,50,0,1967,12,0,USA ,United States ,North America ,Americas 
+Storm , ,34,8000,1968,0,0,USA ,United States ,North America ,Americas 
+Storm , ,55,0,1968,1,0,USA ,United States ,North America ,Americas 
+Storm , ,70,0,1968,5,0,USA ,United States ,North America ,Americas 
+Hurricane ,Camille ,323,1420000,1969,8,17,USA ,United States ,North America ,Americas 
+Storm , ,100,0,1969,1,0,USA ,United States ,North America ,Americas 
+Storm , ,31,0,1969,1,0,USA ,United States ,North America ,Americas 
+Storm , ,166,0,1969,2,0,USA ,United States ,North America ,Americas 
+Storm , ,54,0,1969,2,0,USA ,United States ,North America ,Americas 
+Storm , ,41,0,1969,7,0,USA ,United States ,North America ,Americas 
+Tornado , ,26,147000,1970,5,11,USA ,United States ,North America ,Americas 
+Hurricane ,Celia ,11,450000,1970,8,3,USA ,United States ,North America ,Americas 
+Storm , ,37,0,1971,1,0,USA ,United States ,North America ,Americas 
+Storm , ,121,0,1971,2,0,USA ,United States ,North America ,Americas 
+Hurricane ,Agnes ,122,2100000,1972,6,18,USA ,United States ,North America ,Americas 
+Hurricane , ,134,0,1972,6,0,USA ,United States ,North America ,Americas 
+Storm , ,2,50000,1973,0,0,USA ,United States ,North America ,Americas 
+Storm , ,48,0,1973,5,0,USA ,United States ,North America ,Americas 
+Tornado , ,322,1000000,1974,4,2,USA ,United States ,North America ,Americas 
+Storm , ,30,0,1974,6,0,USA ,United States ,North America ,Americas 
+Storm , ,3,0,1975,5,6,USA ,United States ,North America ,Americas 
+Hurricane ,Eloise ,100,550000,1975,9,16,USA ,United States ,North America ,Americas 
+Storm , ,50,0,1975,1,0,USA ,United States ,North America ,Americas 
+Storm , ,28,0,1975,4,0,USA ,United States ,North America ,Americas 
+Storm , ,51,0,1977,1,0,USA ,United States ,North America ,Americas 
+Storm , ,40,0,1977,4,0,USA ,United States ,North America ,Americas 
+Winter , ,65,100000,1978,2,5,USA ,United States ,North America ,Americas 
+Storm , ,100,0,1978,1,0,USA ,United States ,North America ,Americas 
+Storm , ,25,0,1978,2,0,USA ,United States ,North America ,Americas 
+Storm , ,25,0,1978,3,0,USA ,United States ,North America ,Americas 
+Tornado , ,48,470000,1979,4,10,USA ,United States ,North America ,Americas 
+Hurricane ,Frederic ,31,2300000,1979,9,12,USA ,United States ,North America ,Americas 
+Winter , ,7,13000,1979,4,10,USA ,United States ,North America ,Americas 
+Storm , ,100,0,1979,1,0,USA ,United States ,North America ,Americas 
+Hurricane ,Allen ,0,860000,1980,8,9,USA ,United States ,North America ,Americas 
+Hurricane , ,7,30000,1980,5,13,USA ,United States ,North America ,Americas 
+Hurricane , ,5,20000,1980,6,4,USA ,United States ,North America ,Americas 
+Tornado , ,20,400000,1981,5,9,USA ,United States ,North America ,Americas 
+Storm , ,0,461000,1981,6,23,USA ,United States ,North America ,Americas 
+Storm , ,10,0,1981,5,3,USA ,United States ,North America ,Americas 
+Winter , ,270,1000000,1982,1,0,USA ,United States ,North America ,Americas 
+Tornado , ,46,500000,1982,4,2,USA ,United States ,North America ,Americas 
+Hurricane ,Iwa ,3,230000,1982,11,23,USA ,United States ,North America ,Americas 
+Storm , ,8,40000,1982,3,4,USA ,United States ,North America ,Americas 
+Winter , ,33,0,1982,4,5,USA ,United States ,North America ,Americas 
+Tornado , ,20,100000,1982,5,7,USA ,United States ,North America ,Americas 
+Storm , ,0,42000,1982,9,3,USA ,United States ,North America ,Americas 
+Storm , ,11,0,1982,11,9,USA ,United States ,North America ,Americas 
+Storm , ,20,0,1982,12,0,USA ,United States ,North America ,Americas 
+Winter , ,28,200000,1982,12,25,USA ,United States ,North America ,Americas 
+Storm , ,37,0,1982,1,0,USA ,United States ,North America ,Americas 
+Winter , ,19,525000,1983,0,0,USA ,United States ,North America ,Americas 
+Hurricane ,Alicia ,18,1650000,1983,8,17,USA ,United States ,North America ,Americas 
+Winter , ,500,1800000,1983,12,17,USA ,United States ,North America ,Americas 
+Storm , ,5,130000,1983,3,0,USA ,United States ,North America ,Americas 
+Storm , ,31,0,1983,5,0,USA ,United States ,North America ,Americas 
+Storm , ,56,0,1983,11,12,USA ,United States ,North America ,Americas 
+Tornado , ,80,400000,1984,3,27,USA ,United States ,North America ,Americas 
+Tornado , ,600,277000,1984,6,13,USA ,United States ,North America ,Americas 
+Storm , ,328,1000000,1984,1,0,USA ,United States ,North America ,Americas 
+Storm , ,0,30000,1984,1,6,USA ,United States ,North America ,Americas 
+Storm , ,11,20000,1984,4,21,USA ,United States ,North America ,Americas 
+Storm , ,9,17000,1984,6,0,USA ,United States ,North America ,Americas 
+Storm , ,0,35000,1984,9,11,USA ,United States ,North America ,Americas 
+Storm , ,0,115000,1984,11,10,USA ,United States ,North America ,Americas 
+Storm , ,33,0,1984,2,0,USA ,United States ,North America ,Americas 
+Storm , ,29,0,1984,2,0,USA ,United States ,North America ,Americas 
+Storm , ,27,0,1984,3,0,USA ,United States ,North America ,Americas 
+Hurricane ,Kate ,5,0,1985,0,0,USA ,United States ,North America ,Americas 
+Tornado , ,104,231600,1985,5,31,USA ,United States ,North America ,Americas 
+Hurricane ,Elena ,4,1100000,1985,8,30,USA ,United States ,North America ,Americas 
+Hurricane ,Gloria ,15,900000,1985,9,27,USA ,United States ,North America ,Americas 
+Hurricane ,Juan ,12,1500000,1985,10,27,USA ,United States ,North America ,Americas 
+Storm , ,33,0,1985,11,0,USA ,United States ,North America ,Americas 
+Storm , ,49,340000,1985,11,0,USA ,United States ,North America ,Americas 
+Winter , ,145,400000,1985,1,0,USA ,United States ,North America ,Americas 
+Storm , ,0,200000,1985,4,0,USA ,United States ,North America ,Americas 
+Winter , ,0,10000,1985,6,23,USA ,United States ,North America ,Americas 
+Storm , ,0,40000,1986,2,5,USA ,United States ,North America ,Americas 
+Storm , ,1,30000,1986,4,4,USA ,United States ,North America ,Americas 
+Tornado , ,29,5000,1987,5,22,USA ,United States ,North America ,Americas 
+Winter , ,61,115000,1987,12,13,USA ,United States ,North America ,Americas 
+Winter , ,19,16000,1987,1,0,USA ,United States ,North America ,Americas 
+Storm , ,0,58000,1987,7,23,USA ,United States ,North America ,Americas 
+Storm , ,0,10000,1987,9,7,USA ,United States ,North America ,Americas 
+Winter , ,35,0,1987,1,20,USA ,United States ,North America ,Americas 
+Tornado , ,7,36500,1987,2,27,USA ,United States ,North America ,Americas 
+Hurricane , ,0,55000,1987,6,23,USA ,United States ,North America ,Americas 
+Storm , ,26,46000,1988,1,5,USA ,United States ,North America ,Americas 
+Storm , ,0,35000,1988,1,17,USA ,United States ,North America ,Americas 
+Storm , ,0,25000,1988,2,16,USA ,United States ,North America ,Americas 
+Storm , ,0,36000,1988,3,0,USA ,United States ,North America ,Americas 
+Storm , ,0,90000,1988,4,25,USA ,United States ,North America ,Americas 
+Storm , ,1,130000,1988,5,6,USA ,United States ,North America ,Americas 
+Storm , ,0,75000,1988,5,15,USA ,United States ,North America ,Americas 
+Storm , ,0,33000,1988,5,19,USA ,United States ,North America ,Americas 
+Storm , ,0,35000,1988,5,23,USA ,United States ,North America ,Americas 
+Storm , ,0,130000,1988,6,2,USA ,United States ,North America ,Americas 
+Storm , ,0,20000,1988,6,9,USA ,United States ,North America ,Americas 
+Storm , ,0,37000,1988,7,15,USA ,United States ,North America ,Americas 
+Storm , ,0,75000,1988,11,15,USA ,United States ,North America ,Americas 
+Tropical storm ,Keith ,0,30000,1988,11,22,USA ,United States ,North America ,Americas 
+Storm , ,0,95000,1988,11,25,USA ,United States ,North America ,Americas 
+Storm , ,0,25000,1988,12,7,USA ,United States ,North America ,Americas 
+Storm , ,0,50000,1988,12,14,USA ,United States ,North America ,Americas 
+Storm , ,0,25000,1988,12,28,USA ,United States ,North America ,Americas 
+Hurricane ,Hugo ,51,7000000,1989,9,25,USA ,United States ,North America ,Americas 
+Storm , ,23,380000,1989,5,6,USA ,United States ,North America ,Americas 
+Tornado , ,27,225000,1989,11,15,USA ,United States ,North America ,Americas 
+Storm , ,0,95000,1989,4,3,USA ,United States ,North America ,Americas 
+Storm , ,0,60000,1989,4,25,USA ,United States ,North America ,Americas 
+Storm , ,0,95000,1989,4,28,USA ,United States ,North America ,Americas 
+Storm , ,0,100000,1989,5,24,USA ,United States ,North America ,Americas 
+Storm , ,5,115000,1989,6,6,USA ,United States ,North America ,Americas 
+Storm , ,0,60000,1989,6,14,USA ,United States ,North America ,Americas 
+Hurricane ,Allison ,0,45000,1989,6,25,USA ,United States ,North America ,Americas 
+Storm , ,0,45000,1989,7,2,USA ,United States ,North America ,Americas 
+Storm , ,0,92000,1989,7,10,USA ,United States ,North America ,Americas 
+Hurricane ,Chantal ,0,80000,1989,8,0,USA ,United States ,North America ,Americas 
+Storm , ,0,50000,1989,9,12,USA ,United States ,North America ,Americas 
+Hurricane , Jerry ,2,35000,1989,10,15,USA ,United States ,North America ,Americas 
+Storm , ,0,55000,1989,11,21,USA ,United States ,North America ,Americas 
+Storm , ,15,100000,1990,3,13,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1990,4,5,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1990,4,16,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1990,4,24,USA ,United States ,North America ,Americas 
+Storm , ,13,0,1990,5,1,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1990,5,14,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1990,5,18,USA ,United States ,North America ,Americas 
+Storm , ,10,0,1990,6,1,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1990,6,6,USA ,United States ,North America ,Americas 
+Storm , ,21,45000,1990,6,14,USA ,United States ,North America ,Americas 
+Storm , ,0,625000,1990,7,11,USA ,United States ,North America ,Americas 
+Storm , ,24,160000,1990,8,28,USA ,United States ,North America ,Americas 
+Storm , ,0,50000,1990,10,18,USA ,United States ,North America ,Americas 
+Storm , ,0,35000,1990,11,27,USA ,United States ,North America ,Americas 
+Winter , ,79,400000,1990,12,18,USA ,United States ,North America ,Americas 
+Hurricane ,Bob ,13,780000,1991,8,18,USA ,United States ,North America ,Americas 
+Storm , ,17,30000,1991,12,15,USA ,United States ,North America ,Americas 
+Storm , ,15,0,1991,11,30,USA ,United States ,North America ,Americas 
+Storm ,Bob ,2,0,1991,10,30,USA ,United States ,North America ,Americas 
+Winter , ,0,0,1991,2,18,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1991,2,27,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1991,3,1,USA ,United States ,North America ,Americas 
+Winter , ,0,30000,1991,3,11,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,1991,5,30,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,1991,6,17,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,1991,6,21,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1991,6,24,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,1991,7,7,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,1991,10,2,USA ,United States ,North America ,Americas 
+Hurricane ,Grace ,2,0,1991,10,29,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,1991,11,16,USA ,United States ,North America ,Americas 
+Hurricane ,Andrew ,44,26500000,1992,8,24,USA ,United States ,North America ,Americas 
+Hurricane ,Axel ,0,0,1992,1,7,USA ,United States ,North America ,Americas 
+Storm , ,8,0,1992,2,9,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,3,3,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,3,8,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,3,24,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,4,10,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,4,19,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,4,28,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,5,10,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,5,22,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,6,14,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,6,14,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,6,19,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,6,24,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,7,2,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,7,5,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,7,6,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,9,5,USA ,United States ,North America ,Americas 
+Hurricane ,Iniki ,4,5000000,1992,9,11,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,10,3,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,10,15,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,11,12,USA ,United States ,North America ,Americas 
+Storm , ,27,0,1992,11,21,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,12,0,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1992,12,7,USA ,United States ,North America ,Americas 
+Winter , ,12,0,1992,12,10,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1993,1,12,USA ,United States ,North America ,Americas 
+Tornado , ,7,125000,1993,4,25,USA ,United States ,North America ,Americas 
+Storm , ,4,30000,1993,8,6,USA ,United States ,North America ,Americas 
+Hurricane ,Emily ,1,30000,1993,8,28,USA ,United States ,North America ,Americas 
+Tornado , ,3,75000,1993,2,21,USA ,United States ,North America ,Americas 
+Winter , ,0,100000,1993,3,4,USA ,United States ,North America ,Americas 
+Storm , ,241,1000000,1993,3,12,USA ,United States ,North America ,Americas 
+Storm , ,0,125000,1993,3,25,USA ,United States ,North America ,Americas 
+Storm , ,0,35000,1993,3,28,USA ,United States ,North America ,Americas 
+Tornado , ,0,65000,1993,4,5,USA ,United States ,North America ,Americas 
+Storm , ,0,60000,1993,4,19,USA ,United States ,North America ,Americas 
+Hurricane , ,0,45000,1993,4,28,USA ,United States ,North America ,Americas 
+Storm , ,0,40000,1993,5,0,USA ,United States ,North America ,Americas 
+Hurricane ,Wylie ,3,165000,1993,5,5,USA ,United States ,North America ,Americas 
+Storm , ,0,150000,1993,6,2,USA ,United States ,North America ,Americas 
+Tornado , ,3,220000,1993,6,7,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1993,7,28,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1993,8,4,USA ,United States ,North America ,Americas 
+Tornado , ,0,35000,1993,9,21,USA ,United States ,North America ,Americas 
+Tornado , ,0,30000,1993,10,12,USA ,United States ,North America ,Americas 
+Tornado , ,44,245000,1994,3,26,USA ,United States ,North America ,Americas 
+Winter , ,0,725000,1994,2,11,USA ,United States ,North America ,Americas 
+Storm , ,3,70000,1994,4,15,USA ,United States ,North America ,Americas 
+Storm , ,3,100000,1994,4,26,USA ,United States ,North America ,Americas 
+Storm , ,2,0,1994,6,27,USA ,United States ,North America ,Americas 
+Tropical storm ,Alberto ,32,250000,1994,7,0,USA ,United States ,North America ,Americas 
+Storm , ,0,77000,1994,10,7,USA ,United States ,North America ,Americas 
+Winter , ,20,845000,1995,1,11,USA ,United States ,North America ,Americas 
+Storm , ,33,2000000,1995,3,9,USA ,United States ,North America ,Americas 
+Storm , ,18,2000000,1995,5,5,USA ,United States ,North America ,Americas 
+Tornado , ,3,10000000,1995,5,16,USA ,United States ,North America ,Americas 
+Hurricane ,Opal ,19,3000000,1995,9,27,USA ,United States ,North America ,Americas 
+Storm , ,27,360000,1995,5,7,USA ,United States ,North America ,Americas 
+Hurricane ,Erin ,11,700000,1995,8,0,USA ,United States ,North America ,Americas 
+Hurricane ,Fran ,39,3400000,1996,9,5,USA ,United States ,North America ,Americas 
+Storm ,Joséphine ,1,170000,1996,10,20,USA ,United States ,North America ,Americas 
+Tornado , ,19,0,1996,11,25,USA ,United States ,North America ,Americas 
+Winter , ,32,600000,1996,1,6,USA ,United States ,North America ,Americas 
+Winter , ,120,90000,1996,1,12,USA ,United States ,North America ,Americas 
+Winter , ,59,735000,1996,1,31,USA ,United States ,North America ,Americas 
+Storm , ,6,110000,1996,3,5,USA ,United States ,North America ,Americas 
+Tornado , ,6,305000,1996,4,19,USA ,United States ,North America ,Americas 
+Storm , ,6,70000,1996,4,27,USA ,United States ,North America ,Americas 
+Tornado , ,70,300000,1997,3,2,USA ,United States ,North America ,Americas 
+Tornado , ,28,50000,1997,5,20,USA ,United States ,North America ,Americas 
+Winter , ,0,0,1997,12,30,USA ,United States ,North America ,Americas 
+Winter , ,31,2000,1997,1,4,USA ,United States ,North America ,Americas 
+Tornado , ,1,100000,1997,1,24,USA ,United States ,North America ,Americas 
+Storm , ,0,100000,1997,2,27,USA ,United States ,North America ,Americas 
+Winter , ,0,100000,1997,3,13,USA ,United States ,North America ,Americas 
+Tornado , ,0,100000,1997,3,23,USA ,United States ,North America ,Americas 
+Winter , ,0,300000,1997,3,31,USA ,United States ,North America ,Americas 
+Winter , ,9,500000,1997,4,5,USA ,United States ,North America ,Americas 
+Tornado , ,0,50000,1997,4,10,USA ,United States ,North America ,Americas 
+Tornado , ,4,250000,1997,4,21,USA ,United States ,North America ,Americas 
+Tornado , ,0,100000,1997,4,30,USA ,United States ,North America ,Americas 
+Storm , ,0,150000,1997,5,2,USA ,United States ,North America ,Americas 
+Tornado , ,0,200000,1997,5,17,USA ,United States ,North America ,Americas 
+Tornado , ,0,100000,1997,6,20,USA ,United States ,North America ,Americas 
+Storm , ,16,300000,1997,7,0,USA ,United States ,North America ,Americas 
+Hurricane ,Danny ,0,100000,1997,7,18,USA ,United States ,North America ,Americas 
+Storm , ,5,150000,1997,8,11,USA ,United States ,North America ,Americas 
+Tornado , ,0,200000,1997,8,15,USA ,United States ,North America ,Americas 
+Winter , ,16,300000,1997,10,25,USA ,United States ,North America ,Americas 
+Tornado , ,0,60000,1997,11,0,USA ,United States ,North America ,Americas 
+Storm , ,0,100000,1997,12,5,USA ,United States ,North America ,Americas 
+Storm , ,0,75000,1998,1,5,USA ,United States ,North America ,Americas 
+Tornado , ,39,61500,1998,2,3,USA ,United States ,North America ,Americas 
+Winter , ,10,100000,1998,2,3,USA ,United States ,North America ,Americas 
+Storm , ,0,10000,1998,2,10,USA ,United States ,North America ,Americas 
+Tornado , ,14,13500,1998,3,20,USA ,United States ,North America ,Americas 
+Tornado , ,1,0,1998,3,28,USA ,United States ,North America ,Americas 
+Tornado , ,43,100000,1998,4,11,USA ,United States ,North America ,Americas 
+Tornado , ,0,3000000,1998,5,15,USA ,United States ,North America ,Americas 
+Storm , ,16,27000,1998,5,30,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1998,7,21,USA ,United States ,North America ,Americas 
+Tropical storm ,Charley ,17,25000,1998,8,22,USA ,United States ,North America ,Americas 
+Tornado , ,9,0,1998,10,4,USA ,United States ,North America ,Americas 
+Tornado , ,13,200500,1998,10,18,USA ,United States ,North America ,Americas 
+Hurricane ,Bonnie ,0,256000,1998,9,4,USA ,United States ,North America ,Americas 
+Storm , ,0,2000,1998,11,3,USA ,United States ,North America ,Americas 
+Winter , ,10,370000,1998,12,23,USA ,United States ,North America ,Americas 
+Winter , ,48,1000000,1999,1,1,USA ,United States ,North America ,Americas 
+Tornado , ,8,90000,1999,1,17,USA ,United States ,North America ,Americas 
+Storm , ,3,0,1999,3,3,USA ,United States ,North America ,Americas 
+Tornado , ,9,0,1999,4,4,USA ,United States ,North America ,Americas 
+Tornado , ,9,41000,1999,4,8,USA ,United States ,North America ,Americas 
+Storm , ,2,34000,1999,4,16,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,1999,4,15,USA ,United States ,North America ,Americas 
+Tornado , ,49,1000000,1999,5,3,USA ,United States ,North America ,Americas 
+Storm , ,2,1500,1999,5,16,USA ,United States ,North America ,Americas 
+Tornado , ,1,150000,1999,8,11,USA ,United States ,North America ,Americas 
+Hurricane ,Bret ,0,34000,1999,8,22,USA ,United States ,North America ,Americas 
+Hurricane ,Floyd ,77,7000000,1999,9,13,USA ,United States ,North America ,Americas 
+Hurricane ,Irene ,6,100000,1999,10,15,USA ,United States ,North America ,Americas 
+Storm , ,10,1300000,1999,1,22,USA ,United States ,North America ,Americas 
+Tornado , ,4,7000,1999,5,5,USA ,United States ,North America ,Americas 
+Hurricane ,Dennis ,0,43000,1999,8,24,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,2000,1,0,USA ,United States ,North America ,Americas 
+Tornado , ,22,0,2000,2,13,USA ,United States ,North America ,Americas 
+Tornado , ,5,650000,2000,3,28,USA ,United States ,North America ,Americas 
+Tornado , ,5,450000,2000,3,28,USA ,United States ,North America ,Americas 
+Storm , ,0,28500,2000,5,26,USA ,United States ,North America ,Americas 
+Storm , ,0,0,2000,5,23,USA ,United States ,North America ,Americas 
+Tornado , ,1,8100,2000,7,25,USA ,United States ,North America ,Americas 
+Tornado , ,1,0,2000,9,20,USA ,United States ,North America ,Americas 
+Storm ,Leslie ,2,219000,2000,10,4,USA ,United States ,North America ,Americas 
+Winter , ,0,0,2000,11,20,USA ,United States ,North America ,Americas 
+Tornado , ,12,0,2000,11,16,USA ,United States ,North America ,Americas 
+Winter , ,57,10000,2000,12,24,USA ,United States ,North America ,Americas 
+Winter , ,4,350000,2005,1,22,USA ,United States ,North America ,Americas 
+Tornado , ,7,0,2001,2,24,USA ,United States ,North America ,Americas 
+Winter , ,11,0,2001,2,22,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,2001,4,10,USA ,United States ,North America ,Americas 
+Tornado , ,0,1800,2001,3,29,USA ,United States ,North America ,Americas 
+Hurricane ,Allison ,33,6000000,2001,6,5,USA ,United States ,North America ,Americas 
+Storm , ,2,0,2001,3,20,USA ,United States ,North America ,Americas 
+Tornado , ,4,0,2001,4,9,USA ,United States ,North America ,Americas 
+Tornado , ,1,0,2001,4,21,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,2001,6,14,USA ,United States ,North America ,Americas 
+Tornado , ,3,10000,2001,6,18,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,2001,6,13,USA ,United States ,North America ,Americas 
+Storm , ,0,0,2001,6,21,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,2001,10,10,USA ,United States ,North America ,Americas 
+Tornado , ,2,30000,2001,9,24,USA ,United States ,North America ,Americas 
+Tornado , ,0,4000,2001,10,11,USA ,United States ,North America ,Americas 
+Tornado , ,0,7000,2001,10,13,USA ,United States ,North America ,Americas 
+Storm , ,11,0,2001,8,0,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,2001,8,20,USA ,United States ,North America ,Americas 
+Winter , ,24,0,2002,1,0,USA ,United States ,North America ,Americas 
+Winter , ,28,400000,2002,1,30,USA ,United States ,North America ,Americas 
+Winter , ,20,0,2002,3,0,USA ,United States ,North America ,Americas 
+Storm , ,6,51000,2002,3,19,USA ,United States ,North America ,Americas 
+Tornado , ,2,0,2002,5,5,USA ,United States ,North America ,Americas 
+Tornado , ,1,0,2002,4,21,USA ,United States ,North America ,Americas 
+Tornado , ,10,0,2002,4,29,USA ,United States ,North America ,Americas 
+Tornado , ,0,20000,2002,9,5,USA ,United States ,North America ,Americas 
+Hurricane ,Isidore ,3,70000,2002,9,27,USA ,United States ,North America ,Americas 
+Tornado , ,35,0,2002,11,9,USA ,United States ,North America ,Americas 
+Hurricane ,Lili ,0,260000,2002,10,3,USA ,United States ,North America ,Americas 
+Winter , ,22,113000,2002,12,4,USA ,United States ,North America ,Americas 
+Storm , ,13,0,2002,12,19,USA ,United States ,North America ,Americas 
+Winter , ,18,0,2002,12,23,USA ,United States ,North America ,Americas 
+Typhoon ,Pongsona ,0,0,2002,12,8,USA ,United States ,North America ,Americas 
+Winter , ,44,6000,2003,2,14,USA ,United States ,North America ,Americas 
+Tornado , ,6,5000000,2003,3,20,USA ,United States ,North America ,Americas 
+Winter , ,0,33600,2003,3,20,USA ,United States ,North America ,Americas 
+Tornado , ,45,20000,2003,5,4,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,2003,8,8,USA ,United States ,North America ,Americas 
+Hurricane ,Isabel ,21,5000000,2003,9,18,USA ,United States ,North America ,Americas 
+Storm , ,8,0,2003,11,20,USA ,United States ,North America ,Americas 
+Winter , ,13,0,2003,12,6,USA ,United States ,North America ,Americas 
+Storm , ,4,400000,2003,2,15,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,2003,5,30,USA ,United States ,North America ,Americas 
+Tropical storm ,Bill ,0,16000,2003,6,30,USA ,United States ,North America ,Americas 
+Winter , ,56,0,2004,1,25,USA ,United States ,North America ,Americas 
+Winter , ,0,0,2004,2,23,USA ,United States ,North America ,Americas 
+Storm , ,5,300000,2004,3,4,USA ,United States ,North America ,Americas 
+Tornado , ,4,500000,2004,5,21,USA ,United States ,North America ,Americas 
+Storm , ,10,700000,2004,5,29,USA ,United States ,North America ,Americas 
+Storm , ,5,15000,2004,5,27,USA ,United States ,North America ,Americas 
+Tornado , ,0,6900,2004,6,24,USA ,United States ,North America ,Americas 
+Storm , ,4,0,2004,6,28,USA ,United States ,North America ,Americas 
+Hurricane ,Charley ,16,6800000,2004,8,13,USA ,United States ,North America ,Americas 
+Hurricane ,Gaston ,7,62000,2004,8,29,USA ,United States ,North America ,Americas 
+Hurricane ,Frances ,2,4400000,2004,9,5,USA ,United States ,North America ,Americas 
+Hurricane ,Ivan ,52,6000000,2004,9,15,USA ,United States ,North America ,Americas 
+Hurricane ,Jeanne ,6,7000000,2004,9,25,USA ,United States ,North America ,Americas 
+Tornado , ,0,2100,2004,9,8,USA ,United States ,North America ,Americas 
+Tornado , ,9,0,2004,3,20,USA ,United States ,North America ,Americas 
+Winter , ,20,350000,2005,1,22,USA ,United States ,North America ,Americas 
+Storm , ,0,350000,2005,4,6,USA ,United States ,North America ,Americas 
+Hurricane ,Dennis ,5,0,2005,7,10,USA ,United States ,North America ,Americas 
+Hurricane ,Katrina ,1322,125000000,2005,8,29,USA ,United States ,North America ,Americas 
+Tornado , ,0,0,2005,8,18,USA ,United States ,North America ,Americas 
+Hurricane ,Rita ,0,6000000,2005,9,23,USA ,United States ,North America ,Americas 
+Hurricane ,Wilma ,4,120000,2005,10,24,USA ,United States ,North America ,Americas 
+Winter , ,10,0,2005,12,8,USA ,United States ,North America ,Americas 
+Storm , ,0,0,1993,9,8,URY ,Uruguay ,South America ,Americas 
+Storm , ,1,0,1997,12,21,URY ,Uruguay ,South America ,Americas 
+Storm , ,1,0,1999,6,29,URY ,Uruguay ,South America ,Americas 
+Storm , ,0,0,2000,12,27,URY ,Uruguay ,South America ,Americas 
+Storm , ,2,25000,2002,3,15,URY ,Uruguay ,South America ,Americas 
+Storm , ,7,0,2005,8,23,URY ,Uruguay ,South America ,Americas 
+Cyclone , ,0,0,1940,2,8,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone , ,100,250,1951,12,24,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Amanda ,0,0,1959,12,28,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Carlotta ,0,0,1972,1,18,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Wendy ,4,0,1972,2,2,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Gail ,0,0,1972,4,17,VUT ,Vanuatu ,Oceania ,Oceania 
+Storm ,Alison ,0,0,1975,3,5,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,June ,0,0,1977,1,20,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Gordon ,0,0,1979,1,6,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Cliff ,0,0,1981,2,11,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Gyan ,0,1000,1981,12,12,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Eric & Nigel ,9,173000,1985,1,16,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Uma ,48,25000,1987,2,7,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Anne ,0,0,1988,1,11,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Bola ,0,0,1988,8,0,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Betsy ,2,0,1992,1,9,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Fran ,0,0,1992,3,9,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Prema ,4,6000,1993,3,30,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Yali; Zuman ,0,0,1998,3,21,VUT ,Vanuatu ,Oceania ,Oceania 
+Storm , ,32,0,1999,5,8,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Paula ,1,0,2001,2,28,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Sose ,1,0,2001,4,7,VUT ,Vanuatu ,Oceania ,Oceania 
+Cyclone ,Ivy (P13) ,2,0,2004,2,25,VUT ,Vanuatu ,Oceania ,Oceania 
+Hurricane ,Joan ,11,0,1988,10,0,VEN ,Venezuela ,South America ,Americas 
+Tropical storm ,Bret ,100,4500,1993,7,7,VEN ,Venezuela ,South America ,Americas 
+Hurricane ,Ivan ,5,0,2004,9,8,VEN ,Venezuela ,South America ,Americas 
+Typhoon , ,1000,0,1953,9,26,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon , ,2300,0,1953,10,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon , ,56,0,1956,11,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Iris & Jean ,7000,50000,1964,11,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Wanda ,23,0,1971,5,1,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon , ,89,0,1971,10,23,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon , ,100,0,1973,11,10,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Sarah ,0,0,1977,7,22,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Joe (n°4) ,132,0,1980,7,23,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Ruth (N°6) ,176,0,1980,9,15,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Nancy (N°7) ,70,0,1982,10,18,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,76,0,1983,5,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Herbert (N°7); Kim (N°9); Lex (N°10) ,578,0,1983,9,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Georgia (N°6) ,80,0,1983,10,5,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon , ,21,0,1984,4,15,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Agnes (n°9) ,134,0,1984,11,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Cecil ,798,0,1985,10,23,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Wayne (N°5) ,435,0,1986,9,6,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Maury ,101,0,1987,11,18,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,22,0,1987,12,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon , ,137,0,1988,10,10,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon , ,20,0,1988,11,6,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Irving ,104,0,1989,7,24,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Brian; Angela; Dan ,104,0,1989,10,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Cecil ,751,21000,1989,5,25,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Becky ,19,0,1990,8,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon , ,68,0,1990,11,15,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon , ,15,0,1990,10,23,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Fred ,17,9500,1991,8,17,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,251,1000,1991,12,28,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,8,0,1991,3,15,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Zeke ,21,0,1991,7,13,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Chuck ,14,400,1992,6,29,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Angela ,17,18000,1992,10,23,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Kyle ,130,0,1993,11,23,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,3,0,1993,3,16,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Lola ,73,0,1993,12,8,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Luke ,30,45000,1994,9,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Zack ,16,21200,1995,11,1,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Frankie  ,585,362000,1996,7,24,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Willie ,9,138000,1996,9,16,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,33,0,1996,9,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Linda ,3682,200000,1997,11,2,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Fritz ,10,5000,1997,9,25,VNM ,Viet Nam ,South-east Asia ,Asia 
+Tornado , ,42,0,1998,5,8,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Chip; Elvis & Dawn ,283,93200,1998,11,23,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Faith & Gil ,43,15000,1998,12,16,VNM ,Viet Nam ,South-east Asia ,Asia 
+Tornado , ,10,0,1999,6,6,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,3,0,2000,6,12,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,0,0,2000,7,10,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Kaemi ,17,7140,2000,8,20,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,0,0,2000,8,24,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,0,35,2000,8,24,VNM ,Viet Nam ,South-east Asia ,Asia 
+Tornado , ,0,0,2000,8,24,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Wukong ,2,3000,2000,9,10,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Durian ,30,0,2001,7,4,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Usagi ,3,3200,2001,8,11,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Lingling (Nanang) ,20,0,2001,11,12,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,0,100,2002,10,0,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Koni ,0,0,2003,7,23,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Chanthu ,14,7500,2004,6,12,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Muifa ,56,23000,2004,11,26,VNM ,Viet Nam ,South-east Asia ,Asia 
+Storm , ,13,0,2005,8,13,VNM ,Viet Nam ,South-east Asia ,Asia 
+Tropical storm ,Vicente ,13,,,,,,Viet Nam ,,
+Tropical storm ,Damrey ,75,219250,2005,9,27,VNM ,Viet Nam ,South-east Asia ,Asia 
+Typhoon ,Kai Tak ,,,,,,,Viet Nam ,,
+Hurricane ,Hugo ,0,21800,1989,9,17,VGB ,Virgin Is (UK) ,Caribbean ,Americas 
+Hurricane ,Marilyn ,0,10000,1995,9,18,VGB ,Virgin Is (UK) ,Caribbean ,Americas 
+Hurricane ,Luis ,0,2000,1996,7,8,VGB ,Virgin Is (UK) ,Caribbean ,Americas 
+Hurricane ,Marilyn ,7,136000,1995,9,15,VIR ,Virgin Is (US) ,Caribbean ,Americas 
+Hurricane ,Lenny ,3,31500,1999,11,17,VIR ,Virgin Is (US) ,Caribbean ,Americas 
+Hurricane ,Jeanne ,0,0,2004,9,15,VIR ,Virgin Is (US) ,Caribbean ,Americas 
+Cyclone , ,0,0,1965,2,5,WLF ,Wallis and Futuna Is ,Oceania ,Oceania 
+Cyclone , ,0,0,1966,1,29,WLF ,Wallis and Futuna Is ,Oceania ,Oceania 
+Cyclone ,Raja ,1,0,1986,12,25,WLF ,Wallis and Futuna Is ,Oceania ,Oceania 
+Storm , ,13,0,2001,6,9,YEM ,Yemen ,West Asia ,Asia 
+Storm , ,17,0,2001,8,12,YEM ,Yemen ,West Asia ,Asia 
+Tropical storm , ,17,0,2003,2,2,ZAR ,Zaire/Congo Dem Rep ,Central Africa ,Africa 
+Storm , ,11,0,2003,10,9,ZAR ,Zaire/Congo Dem Rep ,Central Africa ,Africa 
+Winter , ,8,0,2005,2,8,ZAR ,Zaire/Congo Dem Rep ,Central Africa ,Africa 
+Storm , ,11,0,1975,12,24,ZWE ,Zimbabwe ,East Africa ,Africa 
+Cyclone ,Japhet ,8,0,2003,3,7,ZWE ,Zimbabwe ,East Africa ,Africa 
